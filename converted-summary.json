@@ -1,0 +1,1171 @@
+{
+  "sourceRoot": "agency-agents",
+  "outputRoot": "agency-agents-codex-plugin",
+  "convertedCount": 163,
+  "failedCount": 0,
+  "ignoredCount": 38,
+  "categories": {
+    "academic": 5,
+    "design": 8,
+    "engineering": 26,
+    "game-development": 5,
+    "game-development/blender": 1,
+    "game-development/godot": 3,
+    "game-development/roblox-studio": 3,
+    "game-development/unity": 4,
+    "game-development/unreal-engine": 4,
+    "integrations/mcp-memory": 1,
+    "marketing": 29,
+    "paid-media": 7,
+    "product": 5,
+    "project-management": 6,
+    "sales": 8,
+    "spatial-computing": 6,
+    "specialized": 28,
+    "support": 6,
+    "testing": 8
+  },
+  "skills": [
+    {
+      "name": "Anthropologist",
+      "slug": "academic-anthropologist",
+      "source": "agency-agents/academic/academic-anthropologist.md",
+      "category": "academic",
+      "output": "agency-agents-codex-plugin/skills/academic-anthropologist/SKILL.md"
+    },
+    {
+      "name": "Geographer",
+      "slug": "academic-geographer",
+      "source": "agency-agents/academic/academic-geographer.md",
+      "category": "academic",
+      "output": "agency-agents-codex-plugin/skills/academic-geographer/SKILL.md"
+    },
+    {
+      "name": "Historian",
+      "slug": "academic-historian",
+      "source": "agency-agents/academic/academic-historian.md",
+      "category": "academic",
+      "output": "agency-agents-codex-plugin/skills/academic-historian/SKILL.md"
+    },
+    {
+      "name": "Narratologist",
+      "slug": "academic-narratologist",
+      "source": "agency-agents/academic/academic-narratologist.md",
+      "category": "academic",
+      "output": "agency-agents-codex-plugin/skills/academic-narratologist/SKILL.md"
+    },
+    {
+      "name": "Psychologist",
+      "slug": "academic-psychologist",
+      "source": "agency-agents/academic/academic-psychologist.md",
+      "category": "academic",
+      "output": "agency-agents-codex-plugin/skills/academic-psychologist/SKILL.md"
+    },
+    {
+      "name": "Brand Guardian",
+      "slug": "design-brand-guardian",
+      "source": "agency-agents/design/design-brand-guardian.md",
+      "category": "design",
+      "output": "agency-agents-codex-plugin/skills/design-brand-guardian/SKILL.md"
+    },
+    {
+      "name": "Image Prompt Engineer",
+      "slug": "design-image-prompt-engineer",
+      "source": "agency-agents/design/design-image-prompt-engineer.md",
+      "category": "design",
+      "output": "agency-agents-codex-plugin/skills/design-image-prompt-engineer/SKILL.md"
+    },
+    {
+      "name": "Inclusive Visuals Specialist",
+      "slug": "design-inclusive-visuals-specialist",
+      "source": "agency-agents/design/design-inclusive-visuals-specialist.md",
+      "category": "design",
+      "output": "agency-agents-codex-plugin/skills/design-inclusive-visuals-specialist/SKILL.md"
+    },
+    {
+      "name": "UI Designer",
+      "slug": "design-ui-designer",
+      "source": "agency-agents/design/design-ui-designer.md",
+      "category": "design",
+      "output": "agency-agents-codex-plugin/skills/design-ui-designer/SKILL.md"
+    },
+    {
+      "name": "UX Architect",
+      "slug": "design-ux-architect",
+      "source": "agency-agents/design/design-ux-architect.md",
+      "category": "design",
+      "output": "agency-agents-codex-plugin/skills/design-ux-architect/SKILL.md"
+    },
+    {
+      "name": "UX Researcher",
+      "slug": "design-ux-researcher",
+      "source": "agency-agents/design/design-ux-researcher.md",
+      "category": "design",
+      "output": "agency-agents-codex-plugin/skills/design-ux-researcher/SKILL.md"
+    },
+    {
+      "name": "Visual Storyteller",
+      "slug": "design-visual-storyteller",
+      "source": "agency-agents/design/design-visual-storyteller.md",
+      "category": "design",
+      "output": "agency-agents-codex-plugin/skills/design-visual-storyteller/SKILL.md"
+    },
+    {
+      "name": "Whimsy Injector",
+      "slug": "design-whimsy-injector",
+      "source": "agency-agents/design/design-whimsy-injector.md",
+      "category": "design",
+      "output": "agency-agents-codex-plugin/skills/design-whimsy-injector/SKILL.md"
+    },
+    {
+      "name": "AI Data Remediation Engineer",
+      "slug": "engineering-ai-data-remediation-engineer",
+      "source": "agency-agents/engineering/engineering-ai-data-remediation-engineer.md",
+      "category": "engineering",
+      "output": "agency-agents-codex-plugin/skills/engineering-ai-data-remediation-engineer/SKILL.md"
+    },
+    {
+      "name": "AI Engineer",
+      "slug": "engineering-ai-engineer",
+      "source": "agency-agents/engineering/engineering-ai-engineer.md",
+      "category": "engineering",
+      "output": "agency-agents-codex-plugin/skills/engineering-ai-engineer/SKILL.md"
+    },
+    {
+      "name": "Autonomous Optimization Architect",
+      "slug": "engineering-autonomous-optimization-architect",
+      "source": "agency-agents/engineering/engineering-autonomous-optimization-architect.md",
+      "category": "engineering",
+      "output": "agency-agents-codex-plugin/skills/engineering-autonomous-optimization-architect/SKILL.md"
+    },
+    {
+      "name": "Backend Architect",
+      "slug": "engineering-backend-architect",
+      "source": "agency-agents/engineering/engineering-backend-architect.md",
+      "category": "engineering",
+      "output": "agency-agents-codex-plugin/skills/engineering-backend-architect/SKILL.md"
+    },
+    {
+      "name": "CMS Developer",
+      "slug": "engineering-cms-developer",
+      "source": "agency-agents/engineering/engineering-cms-developer.md",
+      "category": "engineering",
+      "output": "agency-agents-codex-plugin/skills/engineering-cms-developer/SKILL.md"
+    },
+    {
+      "name": "Code Reviewer",
+      "slug": "engineering-code-reviewer",
+      "source": "agency-agents/engineering/engineering-code-reviewer.md",
+      "category": "engineering",
+      "output": "agency-agents-codex-plugin/skills/engineering-code-reviewer/SKILL.md"
+    },
+    {
+      "name": "Data Engineer",
+      "slug": "engineering-data-engineer",
+      "source": "agency-agents/engineering/engineering-data-engineer.md",
+      "category": "engineering",
+      "output": "agency-agents-codex-plugin/skills/engineering-data-engineer/SKILL.md"
+    },
+    {
+      "name": "Database Optimizer",
+      "slug": "engineering-database-optimizer",
+      "source": "agency-agents/engineering/engineering-database-optimizer.md",
+      "category": "engineering",
+      "output": "agency-agents-codex-plugin/skills/engineering-database-optimizer/SKILL.md"
+    },
+    {
+      "name": "DevOps Automator",
+      "slug": "engineering-devops-automator",
+      "source": "agency-agents/engineering/engineering-devops-automator.md",
+      "category": "engineering",
+      "output": "agency-agents-codex-plugin/skills/engineering-devops-automator/SKILL.md"
+    },
+    {
+      "name": "Email Intelligence Engineer",
+      "slug": "engineering-email-intelligence-engineer",
+      "source": "agency-agents/engineering/engineering-email-intelligence-engineer.md",
+      "category": "engineering",
+      "output": "agency-agents-codex-plugin/skills/engineering-email-intelligence-engineer/SKILL.md"
+    },
+    {
+      "name": "Embedded Firmware Engineer",
+      "slug": "engineering-embedded-firmware-engineer",
+      "source": "agency-agents/engineering/engineering-embedded-firmware-engineer.md",
+      "category": "engineering",
+      "output": "agency-agents-codex-plugin/skills/engineering-embedded-firmware-engineer/SKILL.md"
+    },
+    {
+      "name": "Feishu Integration Developer",
+      "slug": "engineering-feishu-integration-developer",
+      "source": "agency-agents/engineering/engineering-feishu-integration-developer.md",
+      "category": "engineering",
+      "output": "agency-agents-codex-plugin/skills/engineering-feishu-integration-developer/SKILL.md"
+    },
+    {
+      "name": "Filament Optimization Specialist",
+      "slug": "engineering-filament-optimization-specialist",
+      "source": "agency-agents/engineering/engineering-filament-optimization-specialist.md",
+      "category": "engineering",
+      "output": "agency-agents-codex-plugin/skills/engineering-filament-optimization-specialist/SKILL.md"
+    },
+    {
+      "name": "Frontend Developer",
+      "slug": "engineering-frontend-developer",
+      "source": "agency-agents/engineering/engineering-frontend-developer.md",
+      "category": "engineering",
+      "output": "agency-agents-codex-plugin/skills/engineering-frontend-developer/SKILL.md"
+    },
+    {
+      "name": "Git Workflow Master",
+      "slug": "engineering-git-workflow-master",
+      "source": "agency-agents/engineering/engineering-git-workflow-master.md",
+      "category": "engineering",
+      "output": "agency-agents-codex-plugin/skills/engineering-git-workflow-master/SKILL.md"
+    },
+    {
+      "name": "Incident Response Commander",
+      "slug": "engineering-incident-response-commander",
+      "source": "agency-agents/engineering/engineering-incident-response-commander.md",
+      "category": "engineering",
+      "output": "agency-agents-codex-plugin/skills/engineering-incident-response-commander/SKILL.md"
+    },
+    {
+      "name": "Mobile App Builder",
+      "slug": "engineering-mobile-app-builder",
+      "source": "agency-agents/engineering/engineering-mobile-app-builder.md",
+      "category": "engineering",
+      "output": "agency-agents-codex-plugin/skills/engineering-mobile-app-builder/SKILL.md"
+    },
+    {
+      "name": "Rapid Prototyper",
+      "slug": "engineering-rapid-prototyper",
+      "source": "agency-agents/engineering/engineering-rapid-prototyper.md",
+      "category": "engineering",
+      "output": "agency-agents-codex-plugin/skills/engineering-rapid-prototyper/SKILL.md"
+    },
+    {
+      "name": "Security Engineer",
+      "slug": "engineering-security-engineer",
+      "source": "agency-agents/engineering/engineering-security-engineer.md",
+      "category": "engineering",
+      "output": "agency-agents-codex-plugin/skills/engineering-security-engineer/SKILL.md"
+    },
+    {
+      "name": "Senior Developer",
+      "slug": "engineering-senior-developer",
+      "source": "agency-agents/engineering/engineering-senior-developer.md",
+      "category": "engineering",
+      "output": "agency-agents-codex-plugin/skills/engineering-senior-developer/SKILL.md"
+    },
+    {
+      "name": "Software Architect",
+      "slug": "engineering-software-architect",
+      "source": "agency-agents/engineering/engineering-software-architect.md",
+      "category": "engineering",
+      "output": "agency-agents-codex-plugin/skills/engineering-software-architect/SKILL.md"
+    },
+    {
+      "name": "Solidity Smart Contract Engineer",
+      "slug": "engineering-solidity-smart-contract-engineer",
+      "source": "agency-agents/engineering/engineering-solidity-smart-contract-engineer.md",
+      "category": "engineering",
+      "output": "agency-agents-codex-plugin/skills/engineering-solidity-smart-contract-engineer/SKILL.md"
+    },
+    {
+      "name": "SRE (Site Reliability Engineer)",
+      "slug": "engineering-sre",
+      "source": "agency-agents/engineering/engineering-sre.md",
+      "category": "engineering",
+      "output": "agency-agents-codex-plugin/skills/engineering-sre/SKILL.md"
+    },
+    {
+      "name": "Technical Writer",
+      "slug": "engineering-technical-writer",
+      "source": "agency-agents/engineering/engineering-technical-writer.md",
+      "category": "engineering",
+      "output": "agency-agents-codex-plugin/skills/engineering-technical-writer/SKILL.md"
+    },
+    {
+      "name": "Threat Detection Engineer",
+      "slug": "engineering-threat-detection-engineer",
+      "source": "agency-agents/engineering/engineering-threat-detection-engineer.md",
+      "category": "engineering",
+      "output": "agency-agents-codex-plugin/skills/engineering-threat-detection-engineer/SKILL.md"
+    },
+    {
+      "name": "WeChat Mini Program Developer",
+      "slug": "engineering-wechat-mini-program-developer",
+      "source": "agency-agents/engineering/engineering-wechat-mini-program-developer.md",
+      "category": "engineering",
+      "output": "agency-agents-codex-plugin/skills/engineering-wechat-mini-program-developer/SKILL.md"
+    },
+    {
+      "name": "Blender Add-on Engineer",
+      "slug": "blender-addon-engineer",
+      "source": "agency-agents/game-development/blender/blender-addon-engineer.md",
+      "category": "game-development/blender",
+      "output": "agency-agents-codex-plugin/skills/blender-addon-engineer/SKILL.md"
+    },
+    {
+      "name": "Game Audio Engineer",
+      "slug": "game-audio-engineer",
+      "source": "agency-agents/game-development/game-audio-engineer.md",
+      "category": "game-development",
+      "output": "agency-agents-codex-plugin/skills/game-audio-engineer/SKILL.md"
+    },
+    {
+      "name": "Game Designer",
+      "slug": "game-designer",
+      "source": "agency-agents/game-development/game-designer.md",
+      "category": "game-development",
+      "output": "agency-agents-codex-plugin/skills/game-designer/SKILL.md"
+    },
+    {
+      "name": "Godot Gameplay Scripter",
+      "slug": "godot-gameplay-scripter",
+      "source": "agency-agents/game-development/godot/godot-gameplay-scripter.md",
+      "category": "game-development/godot",
+      "output": "agency-agents-codex-plugin/skills/godot-gameplay-scripter/SKILL.md"
+    },
+    {
+      "name": "Godot Multiplayer Engineer",
+      "slug": "godot-multiplayer-engineer",
+      "source": "agency-agents/game-development/godot/godot-multiplayer-engineer.md",
+      "category": "game-development/godot",
+      "output": "agency-agents-codex-plugin/skills/godot-multiplayer-engineer/SKILL.md"
+    },
+    {
+      "name": "Godot Shader Developer",
+      "slug": "godot-shader-developer",
+      "source": "agency-agents/game-development/godot/godot-shader-developer.md",
+      "category": "game-development/godot",
+      "output": "agency-agents-codex-plugin/skills/godot-shader-developer/SKILL.md"
+    },
+    {
+      "name": "Level Designer",
+      "slug": "level-designer",
+      "source": "agency-agents/game-development/level-designer.md",
+      "category": "game-development",
+      "output": "agency-agents-codex-plugin/skills/level-designer/SKILL.md"
+    },
+    {
+      "name": "Narrative Designer",
+      "slug": "narrative-designer",
+      "source": "agency-agents/game-development/narrative-designer.md",
+      "category": "game-development",
+      "output": "agency-agents-codex-plugin/skills/narrative-designer/SKILL.md"
+    },
+    {
+      "name": "Roblox Avatar Creator",
+      "slug": "roblox-avatar-creator",
+      "source": "agency-agents/game-development/roblox-studio/roblox-avatar-creator.md",
+      "category": "game-development/roblox-studio",
+      "output": "agency-agents-codex-plugin/skills/roblox-avatar-creator/SKILL.md"
+    },
+    {
+      "name": "Roblox Experience Designer",
+      "slug": "roblox-experience-designer",
+      "source": "agency-agents/game-development/roblox-studio/roblox-experience-designer.md",
+      "category": "game-development/roblox-studio",
+      "output": "agency-agents-codex-plugin/skills/roblox-experience-designer/SKILL.md"
+    },
+    {
+      "name": "Roblox Systems Scripter",
+      "slug": "roblox-systems-scripter",
+      "source": "agency-agents/game-development/roblox-studio/roblox-systems-scripter.md",
+      "category": "game-development/roblox-studio",
+      "output": "agency-agents-codex-plugin/skills/roblox-systems-scripter/SKILL.md"
+    },
+    {
+      "name": "Technical Artist",
+      "slug": "technical-artist",
+      "source": "agency-agents/game-development/technical-artist.md",
+      "category": "game-development",
+      "output": "agency-agents-codex-plugin/skills/technical-artist/SKILL.md"
+    },
+    {
+      "name": "Unity Architect",
+      "slug": "unity-architect",
+      "source": "agency-agents/game-development/unity/unity-architect.md",
+      "category": "game-development/unity",
+      "output": "agency-agents-codex-plugin/skills/unity-architect/SKILL.md"
+    },
+    {
+      "name": "Unity Editor Tool Developer",
+      "slug": "unity-editor-tool-developer",
+      "source": "agency-agents/game-development/unity/unity-editor-tool-developer.md",
+      "category": "game-development/unity",
+      "output": "agency-agents-codex-plugin/skills/unity-editor-tool-developer/SKILL.md"
+    },
+    {
+      "name": "Unity Multiplayer Engineer",
+      "slug": "unity-multiplayer-engineer",
+      "source": "agency-agents/game-development/unity/unity-multiplayer-engineer.md",
+      "category": "game-development/unity",
+      "output": "agency-agents-codex-plugin/skills/unity-multiplayer-engineer/SKILL.md"
+    },
+    {
+      "name": "Unity Shader Graph Artist",
+      "slug": "unity-shader-graph-artist",
+      "source": "agency-agents/game-development/unity/unity-shader-graph-artist.md",
+      "category": "game-development/unity",
+      "output": "agency-agents-codex-plugin/skills/unity-shader-graph-artist/SKILL.md"
+    },
+    {
+      "name": "Unreal Multiplayer Architect",
+      "slug": "unreal-multiplayer-architect",
+      "source": "agency-agents/game-development/unreal-engine/unreal-multiplayer-architect.md",
+      "category": "game-development/unreal-engine",
+      "output": "agency-agents-codex-plugin/skills/unreal-multiplayer-architect/SKILL.md"
+    },
+    {
+      "name": "Unreal Systems Engineer",
+      "slug": "unreal-systems-engineer",
+      "source": "agency-agents/game-development/unreal-engine/unreal-systems-engineer.md",
+      "category": "game-development/unreal-engine",
+      "output": "agency-agents-codex-plugin/skills/unreal-systems-engineer/SKILL.md"
+    },
+    {
+      "name": "Unreal Technical Artist",
+      "slug": "unreal-technical-artist",
+      "source": "agency-agents/game-development/unreal-engine/unreal-technical-artist.md",
+      "category": "game-development/unreal-engine",
+      "output": "agency-agents-codex-plugin/skills/unreal-technical-artist/SKILL.md"
+    },
+    {
+      "name": "Unreal World Builder",
+      "slug": "unreal-world-builder",
+      "source": "agency-agents/game-development/unreal-engine/unreal-world-builder.md",
+      "category": "game-development/unreal-engine",
+      "output": "agency-agents-codex-plugin/skills/unreal-world-builder/SKILL.md"
+    },
+    {
+      "name": "Backend Architect",
+      "slug": "backend-architect-with-memory",
+      "source": "agency-agents/integrations/mcp-memory/backend-architect-with-memory.md",
+      "category": "integrations/mcp-memory",
+      "output": "agency-agents-codex-plugin/skills/backend-architect-with-memory/SKILL.md"
+    },
+    {
+      "name": "AI Citation Strategist",
+      "slug": "marketing-ai-citation-strategist",
+      "source": "agency-agents/marketing/marketing-ai-citation-strategist.md",
+      "category": "marketing",
+      "output": "agency-agents-codex-plugin/skills/marketing-ai-citation-strategist/SKILL.md"
+    },
+    {
+      "name": "App Store Optimizer",
+      "slug": "marketing-app-store-optimizer",
+      "source": "agency-agents/marketing/marketing-app-store-optimizer.md",
+      "category": "marketing",
+      "output": "agency-agents-codex-plugin/skills/marketing-app-store-optimizer/SKILL.md"
+    },
+    {
+      "name": "Baidu SEO Specialist",
+      "slug": "marketing-baidu-seo-specialist",
+      "source": "agency-agents/marketing/marketing-baidu-seo-specialist.md",
+      "category": "marketing",
+      "output": "agency-agents-codex-plugin/skills/marketing-baidu-seo-specialist/SKILL.md"
+    },
+    {
+      "name": "Bilibili Content Strategist",
+      "slug": "marketing-bilibili-content-strategist",
+      "source": "agency-agents/marketing/marketing-bilibili-content-strategist.md",
+      "category": "marketing",
+      "output": "agency-agents-codex-plugin/skills/marketing-bilibili-content-strategist/SKILL.md"
+    },
+    {
+      "name": "Book Co-Author",
+      "slug": "marketing-book-co-author",
+      "source": "agency-agents/marketing/marketing-book-co-author.md",
+      "category": "marketing",
+      "output": "agency-agents-codex-plugin/skills/marketing-book-co-author/SKILL.md"
+    },
+    {
+      "name": "Carousel Growth Engine",
+      "slug": "marketing-carousel-growth-engine",
+      "source": "agency-agents/marketing/marketing-carousel-growth-engine.md",
+      "category": "marketing",
+      "output": "agency-agents-codex-plugin/skills/marketing-carousel-growth-engine/SKILL.md"
+    },
+    {
+      "name": "China E-Commerce Operator",
+      "slug": "marketing-china-ecommerce-operator",
+      "source": "agency-agents/marketing/marketing-china-ecommerce-operator.md",
+      "category": "marketing",
+      "output": "agency-agents-codex-plugin/skills/marketing-china-ecommerce-operator/SKILL.md"
+    },
+    {
+      "name": "China Market Localization Strategist",
+      "slug": "marketing-china-market-localization-strategist",
+      "source": "agency-agents/marketing/marketing-china-market-localization-strategist.md",
+      "category": "marketing",
+      "output": "agency-agents-codex-plugin/skills/marketing-china-market-localization-strategist/SKILL.md"
+    },
+    {
+      "name": "Content Creator",
+      "slug": "marketing-content-creator",
+      "source": "agency-agents/marketing/marketing-content-creator.md",
+      "category": "marketing",
+      "output": "agency-agents-codex-plugin/skills/marketing-content-creator/SKILL.md"
+    },
+    {
+      "name": "Cross-Border E-Commerce Specialist",
+      "slug": "marketing-cross-border-ecommerce",
+      "source": "agency-agents/marketing/marketing-cross-border-ecommerce.md",
+      "category": "marketing",
+      "output": "agency-agents-codex-plugin/skills/marketing-cross-border-ecommerce/SKILL.md"
+    },
+    {
+      "name": "Douyin Strategist",
+      "slug": "marketing-douyin-strategist",
+      "source": "agency-agents/marketing/marketing-douyin-strategist.md",
+      "category": "marketing",
+      "output": "agency-agents-codex-plugin/skills/marketing-douyin-strategist/SKILL.md"
+    },
+    {
+      "name": "Growth Hacker",
+      "slug": "marketing-growth-hacker",
+      "source": "agency-agents/marketing/marketing-growth-hacker.md",
+      "category": "marketing",
+      "output": "agency-agents-codex-plugin/skills/marketing-growth-hacker/SKILL.md"
+    },
+    {
+      "name": "Instagram Curator",
+      "slug": "marketing-instagram-curator",
+      "source": "agency-agents/marketing/marketing-instagram-curator.md",
+      "category": "marketing",
+      "output": "agency-agents-codex-plugin/skills/marketing-instagram-curator/SKILL.md"
+    },
+    {
+      "name": "Kuaishou Strategist",
+      "slug": "marketing-kuaishou-strategist",
+      "source": "agency-agents/marketing/marketing-kuaishou-strategist.md",
+      "category": "marketing",
+      "output": "agency-agents-codex-plugin/skills/marketing-kuaishou-strategist/SKILL.md"
+    },
+    {
+      "name": "LinkedIn Content Creator",
+      "slug": "marketing-linkedin-content-creator",
+      "source": "agency-agents/marketing/marketing-linkedin-content-creator.md",
+      "category": "marketing",
+      "output": "agency-agents-codex-plugin/skills/marketing-linkedin-content-creator/SKILL.md"
+    },
+    {
+      "name": "Livestream Commerce Coach",
+      "slug": "marketing-livestream-commerce-coach",
+      "source": "agency-agents/marketing/marketing-livestream-commerce-coach.md",
+      "category": "marketing",
+      "output": "agency-agents-codex-plugin/skills/marketing-livestream-commerce-coach/SKILL.md"
+    },
+    {
+      "name": "Podcast Strategist",
+      "slug": "marketing-podcast-strategist",
+      "source": "agency-agents/marketing/marketing-podcast-strategist.md",
+      "category": "marketing",
+      "output": "agency-agents-codex-plugin/skills/marketing-podcast-strategist/SKILL.md"
+    },
+    {
+      "name": "Private Domain Operator",
+      "slug": "marketing-private-domain-operator",
+      "source": "agency-agents/marketing/marketing-private-domain-operator.md",
+      "category": "marketing",
+      "output": "agency-agents-codex-plugin/skills/marketing-private-domain-operator/SKILL.md"
+    },
+    {
+      "name": "Reddit Community Builder",
+      "slug": "marketing-reddit-community-builder",
+      "source": "agency-agents/marketing/marketing-reddit-community-builder.md",
+      "category": "marketing",
+      "output": "agency-agents-codex-plugin/skills/marketing-reddit-community-builder/SKILL.md"
+    },
+    {
+      "name": "SEO Specialist",
+      "slug": "marketing-seo-specialist",
+      "source": "agency-agents/marketing/marketing-seo-specialist.md",
+      "category": "marketing",
+      "output": "agency-agents-codex-plugin/skills/marketing-seo-specialist/SKILL.md"
+    },
+    {
+      "name": "Short-Video Editing Coach",
+      "slug": "marketing-short-video-editing-coach",
+      "source": "agency-agents/marketing/marketing-short-video-editing-coach.md",
+      "category": "marketing",
+      "output": "agency-agents-codex-plugin/skills/marketing-short-video-editing-coach/SKILL.md"
+    },
+    {
+      "name": "Social Media Strategist",
+      "slug": "marketing-social-media-strategist",
+      "source": "agency-agents/marketing/marketing-social-media-strategist.md",
+      "category": "marketing",
+      "output": "agency-agents-codex-plugin/skills/marketing-social-media-strategist/SKILL.md"
+    },
+    {
+      "name": "TikTok Strategist",
+      "slug": "marketing-tiktok-strategist",
+      "source": "agency-agents/marketing/marketing-tiktok-strategist.md",
+      "category": "marketing",
+      "output": "agency-agents-codex-plugin/skills/marketing-tiktok-strategist/SKILL.md"
+    },
+    {
+      "name": "Twitter Engager",
+      "slug": "marketing-twitter-engager",
+      "source": "agency-agents/marketing/marketing-twitter-engager.md",
+      "category": "marketing",
+      "output": "agency-agents-codex-plugin/skills/marketing-twitter-engager/SKILL.md"
+    },
+    {
+      "name": "Video Optimization Specialist",
+      "slug": "marketing-video-optimization-specialist",
+      "source": "agency-agents/marketing/marketing-video-optimization-specialist.md",
+      "category": "marketing",
+      "output": "agency-agents-codex-plugin/skills/marketing-video-optimization-specialist/SKILL.md"
+    },
+    {
+      "name": "WeChat Official Account Manager",
+      "slug": "marketing-wechat-official-account",
+      "source": "agency-agents/marketing/marketing-wechat-official-account.md",
+      "category": "marketing",
+      "output": "agency-agents-codex-plugin/skills/marketing-wechat-official-account/SKILL.md"
+    },
+    {
+      "name": "Weibo Strategist",
+      "slug": "marketing-weibo-strategist",
+      "source": "agency-agents/marketing/marketing-weibo-strategist.md",
+      "category": "marketing",
+      "output": "agency-agents-codex-plugin/skills/marketing-weibo-strategist/SKILL.md"
+    },
+    {
+      "name": "Xiaohongshu Specialist",
+      "slug": "marketing-xiaohongshu-specialist",
+      "source": "agency-agents/marketing/marketing-xiaohongshu-specialist.md",
+      "category": "marketing",
+      "output": "agency-agents-codex-plugin/skills/marketing-xiaohongshu-specialist/SKILL.md"
+    },
+    {
+      "name": "Zhihu Strategist",
+      "slug": "marketing-zhihu-strategist",
+      "source": "agency-agents/marketing/marketing-zhihu-strategist.md",
+      "category": "marketing",
+      "output": "agency-agents-codex-plugin/skills/marketing-zhihu-strategist/SKILL.md"
+    },
+    {
+      "name": "Paid Media Auditor",
+      "slug": "paid-media-auditor",
+      "source": "agency-agents/paid-media/paid-media-auditor.md",
+      "category": "paid-media",
+      "output": "agency-agents-codex-plugin/skills/paid-media-auditor/SKILL.md"
+    },
+    {
+      "name": "Ad Creative Strategist",
+      "slug": "paid-media-creative-strategist",
+      "source": "agency-agents/paid-media/paid-media-creative-strategist.md",
+      "category": "paid-media",
+      "output": "agency-agents-codex-plugin/skills/paid-media-creative-strategist/SKILL.md"
+    },
+    {
+      "name": "Paid Social Strategist",
+      "slug": "paid-media-paid-social-strategist",
+      "source": "agency-agents/paid-media/paid-media-paid-social-strategist.md",
+      "category": "paid-media",
+      "output": "agency-agents-codex-plugin/skills/paid-media-paid-social-strategist/SKILL.md"
+    },
+    {
+      "name": "PPC Campaign Strategist",
+      "slug": "paid-media-ppc-strategist",
+      "source": "agency-agents/paid-media/paid-media-ppc-strategist.md",
+      "category": "paid-media",
+      "output": "agency-agents-codex-plugin/skills/paid-media-ppc-strategist/SKILL.md"
+    },
+    {
+      "name": "Programmatic & Display Buyer",
+      "slug": "paid-media-programmatic-buyer",
+      "source": "agency-agents/paid-media/paid-media-programmatic-buyer.md",
+      "category": "paid-media",
+      "output": "agency-agents-codex-plugin/skills/paid-media-programmatic-buyer/SKILL.md"
+    },
+    {
+      "name": "Search Query Analyst",
+      "slug": "paid-media-search-query-analyst",
+      "source": "agency-agents/paid-media/paid-media-search-query-analyst.md",
+      "category": "paid-media",
+      "output": "agency-agents-codex-plugin/skills/paid-media-search-query-analyst/SKILL.md"
+    },
+    {
+      "name": "Tracking & Measurement Specialist",
+      "slug": "paid-media-tracking-specialist",
+      "source": "agency-agents/paid-media/paid-media-tracking-specialist.md",
+      "category": "paid-media",
+      "output": "agency-agents-codex-plugin/skills/paid-media-tracking-specialist/SKILL.md"
+    },
+    {
+      "name": "Behavioral Nudge Engine",
+      "slug": "product-behavioral-nudge-engine",
+      "source": "agency-agents/product/product-behavioral-nudge-engine.md",
+      "category": "product",
+      "output": "agency-agents-codex-plugin/skills/product-behavioral-nudge-engine/SKILL.md"
+    },
+    {
+      "name": "Feedback Synthesizer",
+      "slug": "product-feedback-synthesizer",
+      "source": "agency-agents/product/product-feedback-synthesizer.md",
+      "category": "product",
+      "output": "agency-agents-codex-plugin/skills/product-feedback-synthesizer/SKILL.md"
+    },
+    {
+      "name": "Product Manager",
+      "slug": "product-manager",
+      "source": "agency-agents/product/product-manager.md",
+      "category": "product",
+      "output": "agency-agents-codex-plugin/skills/product-manager/SKILL.md"
+    },
+    {
+      "name": "Sprint Prioritizer",
+      "slug": "product-sprint-prioritizer",
+      "source": "agency-agents/product/product-sprint-prioritizer.md",
+      "category": "product",
+      "output": "agency-agents-codex-plugin/skills/product-sprint-prioritizer/SKILL.md"
+    },
+    {
+      "name": "Trend Researcher",
+      "slug": "product-trend-researcher",
+      "source": "agency-agents/product/product-trend-researcher.md",
+      "category": "product",
+      "output": "agency-agents-codex-plugin/skills/product-trend-researcher/SKILL.md"
+    },
+    {
+      "name": "Experiment Tracker",
+      "slug": "project-management-experiment-tracker",
+      "source": "agency-agents/project-management/project-management-experiment-tracker.md",
+      "category": "project-management",
+      "output": "agency-agents-codex-plugin/skills/project-management-experiment-tracker/SKILL.md"
+    },
+    {
+      "name": "Jira Workflow Steward",
+      "slug": "project-management-jira-workflow-steward",
+      "source": "agency-agents/project-management/project-management-jira-workflow-steward.md",
+      "category": "project-management",
+      "output": "agency-agents-codex-plugin/skills/project-management-jira-workflow-steward/SKILL.md"
+    },
+    {
+      "name": "Project Shepherd",
+      "slug": "project-management-project-shepherd",
+      "source": "agency-agents/project-management/project-management-project-shepherd.md",
+      "category": "project-management",
+      "output": "agency-agents-codex-plugin/skills/project-management-project-shepherd/SKILL.md"
+    },
+    {
+      "name": "Studio Operations",
+      "slug": "project-management-studio-operations",
+      "source": "agency-agents/project-management/project-management-studio-operations.md",
+      "category": "project-management",
+      "output": "agency-agents-codex-plugin/skills/project-management-studio-operations/SKILL.md"
+    },
+    {
+      "name": "Studio Producer",
+      "slug": "project-management-studio-producer",
+      "source": "agency-agents/project-management/project-management-studio-producer.md",
+      "category": "project-management",
+      "output": "agency-agents-codex-plugin/skills/project-management-studio-producer/SKILL.md"
+    },
+    {
+      "name": "Senior Project Manager",
+      "slug": "project-manager-senior",
+      "source": "agency-agents/project-management/project-manager-senior.md",
+      "category": "project-management",
+      "output": "agency-agents-codex-plugin/skills/project-manager-senior/SKILL.md"
+    },
+    {
+      "name": "Account Strategist",
+      "slug": "sales-account-strategist",
+      "source": "agency-agents/sales/sales-account-strategist.md",
+      "category": "sales",
+      "output": "agency-agents-codex-plugin/skills/sales-account-strategist/SKILL.md"
+    },
+    {
+      "name": "Sales Coach",
+      "slug": "sales-coach",
+      "source": "agency-agents/sales/sales-coach.md",
+      "category": "sales",
+      "output": "agency-agents-codex-plugin/skills/sales-coach/SKILL.md"
+    },
+    {
+      "name": "Deal Strategist",
+      "slug": "sales-deal-strategist",
+      "source": "agency-agents/sales/sales-deal-strategist.md",
+      "category": "sales",
+      "output": "agency-agents-codex-plugin/skills/sales-deal-strategist/SKILL.md"
+    },
+    {
+      "name": "Discovery Coach",
+      "slug": "sales-discovery-coach",
+      "source": "agency-agents/sales/sales-discovery-coach.md",
+      "category": "sales",
+      "output": "agency-agents-codex-plugin/skills/sales-discovery-coach/SKILL.md"
+    },
+    {
+      "name": "Sales Engineer",
+      "slug": "sales-engineer",
+      "source": "agency-agents/sales/sales-engineer.md",
+      "category": "sales",
+      "output": "agency-agents-codex-plugin/skills/sales-engineer/SKILL.md"
+    },
+    {
+      "name": "Outbound Strategist",
+      "slug": "sales-outbound-strategist",
+      "source": "agency-agents/sales/sales-outbound-strategist.md",
+      "category": "sales",
+      "output": "agency-agents-codex-plugin/skills/sales-outbound-strategist/SKILL.md"
+    },
+    {
+      "name": "Pipeline Analyst",
+      "slug": "sales-pipeline-analyst",
+      "source": "agency-agents/sales/sales-pipeline-analyst.md",
+      "category": "sales",
+      "output": "agency-agents-codex-plugin/skills/sales-pipeline-analyst/SKILL.md"
+    },
+    {
+      "name": "Proposal Strategist",
+      "slug": "sales-proposal-strategist",
+      "source": "agency-agents/sales/sales-proposal-strategist.md",
+      "category": "sales",
+      "output": "agency-agents-codex-plugin/skills/sales-proposal-strategist/SKILL.md"
+    },
+    {
+      "name": "macOS Spatial/Metal Engineer",
+      "slug": "macos-spatial-metal-engineer",
+      "source": "agency-agents/spatial-computing/macos-spatial-metal-engineer.md",
+      "category": "spatial-computing",
+      "output": "agency-agents-codex-plugin/skills/macos-spatial-metal-engineer/SKILL.md"
+    },
+    {
+      "name": "Terminal Integration Specialist",
+      "slug": "terminal-integration-specialist",
+      "source": "agency-agents/spatial-computing/terminal-integration-specialist.md",
+      "category": "spatial-computing",
+      "output": "agency-agents-codex-plugin/skills/terminal-integration-specialist/SKILL.md"
+    },
+    {
+      "name": "visionOS Spatial Engineer",
+      "slug": "visionos-spatial-engineer",
+      "source": "agency-agents/spatial-computing/visionos-spatial-engineer.md",
+      "category": "spatial-computing",
+      "output": "agency-agents-codex-plugin/skills/visionos-spatial-engineer/SKILL.md"
+    },
+    {
+      "name": "XR Cockpit Interaction Specialist",
+      "slug": "xr-cockpit-interaction-specialist",
+      "source": "agency-agents/spatial-computing/xr-cockpit-interaction-specialist.md",
+      "category": "spatial-computing",
+      "output": "agency-agents-codex-plugin/skills/xr-cockpit-interaction-specialist/SKILL.md"
+    },
+    {
+      "name": "XR Immersive Developer",
+      "slug": "xr-immersive-developer",
+      "source": "agency-agents/spatial-computing/xr-immersive-developer.md",
+      "category": "spatial-computing",
+      "output": "agency-agents-codex-plugin/skills/xr-immersive-developer/SKILL.md"
+    },
+    {
+      "name": "XR Interface Architect",
+      "slug": "xr-interface-architect",
+      "source": "agency-agents/spatial-computing/xr-interface-architect.md",
+      "category": "spatial-computing",
+      "output": "agency-agents-codex-plugin/skills/xr-interface-architect/SKILL.md"
+    },
+    {
+      "name": "Accounts Payable Agent",
+      "slug": "accounts-payable-agent",
+      "source": "agency-agents/specialized/accounts-payable-agent.md",
+      "category": "specialized",
+      "output": "agency-agents-codex-plugin/skills/accounts-payable-agent/SKILL.md"
+    },
+    {
+      "name": "Agentic Identity & Trust Architect",
+      "slug": "agentic-identity-trust",
+      "source": "agency-agents/specialized/agentic-identity-trust.md",
+      "category": "specialized",
+      "output": "agency-agents-codex-plugin/skills/agentic-identity-trust/SKILL.md"
+    },
+    {
+      "name": "Agents Orchestrator",
+      "slug": "agents-orchestrator",
+      "source": "agency-agents/specialized/agents-orchestrator.md",
+      "category": "specialized",
+      "output": "agency-agents-codex-plugin/skills/agents-orchestrator/SKILL.md"
+    },
+    {
+      "name": "Automation Governance Architect",
+      "slug": "automation-governance-architect",
+      "source": "agency-agents/specialized/automation-governance-architect.md",
+      "category": "specialized",
+      "output": "agency-agents-codex-plugin/skills/automation-governance-architect/SKILL.md"
+    },
+    {
+      "name": "Blockchain Security Auditor",
+      "slug": "blockchain-security-auditor",
+      "source": "agency-agents/specialized/blockchain-security-auditor.md",
+      "category": "specialized",
+      "output": "agency-agents-codex-plugin/skills/blockchain-security-auditor/SKILL.md"
+    },
+    {
+      "name": "Compliance Auditor",
+      "slug": "compliance-auditor",
+      "source": "agency-agents/specialized/compliance-auditor.md",
+      "category": "specialized",
+      "output": "agency-agents-codex-plugin/skills/compliance-auditor/SKILL.md"
+    },
+    {
+      "name": "Corporate Training Designer",
+      "slug": "corporate-training-designer",
+      "source": "agency-agents/specialized/corporate-training-designer.md",
+      "category": "specialized",
+      "output": "agency-agents-codex-plugin/skills/corporate-training-designer/SKILL.md"
+    },
+    {
+      "name": "Data Consolidation Agent",
+      "slug": "data-consolidation-agent",
+      "source": "agency-agents/specialized/data-consolidation-agent.md",
+      "category": "specialized",
+      "output": "agency-agents-codex-plugin/skills/data-consolidation-agent/SKILL.md"
+    },
+    {
+      "name": "Government Digital Presales Consultant",
+      "slug": "government-digital-presales-consultant",
+      "source": "agency-agents/specialized/government-digital-presales-consultant.md",
+      "category": "specialized",
+      "output": "agency-agents-codex-plugin/skills/government-digital-presales-consultant/SKILL.md"
+    },
+    {
+      "name": "Healthcare Marketing Compliance Specialist",
+      "slug": "healthcare-marketing-compliance",
+      "source": "agency-agents/specialized/healthcare-marketing-compliance.md",
+      "category": "specialized",
+      "output": "agency-agents-codex-plugin/skills/healthcare-marketing-compliance/SKILL.md"
+    },
+    {
+      "name": "Identity Graph Operator",
+      "slug": "identity-graph-operator",
+      "source": "agency-agents/specialized/identity-graph-operator.md",
+      "category": "specialized",
+      "output": "agency-agents-codex-plugin/skills/identity-graph-operator/SKILL.md"
+    },
+    {
+      "name": "LSP/Index Engineer",
+      "slug": "lsp-index-engineer",
+      "source": "agency-agents/specialized/lsp-index-engineer.md",
+      "category": "specialized",
+      "output": "agency-agents-codex-plugin/skills/lsp-index-engineer/SKILL.md"
+    },
+    {
+      "name": "Recruitment Specialist",
+      "slug": "recruitment-specialist",
+      "source": "agency-agents/specialized/recruitment-specialist.md",
+      "category": "specialized",
+      "output": "agency-agents-codex-plugin/skills/recruitment-specialist/SKILL.md"
+    },
+    {
+      "name": "Report Distribution Agent",
+      "slug": "report-distribution-agent",
+      "source": "agency-agents/specialized/report-distribution-agent.md",
+      "category": "specialized",
+      "output": "agency-agents-codex-plugin/skills/report-distribution-agent/SKILL.md"
+    },
+    {
+      "name": "Sales Data Extraction Agent",
+      "slug": "sales-data-extraction-agent",
+      "source": "agency-agents/specialized/sales-data-extraction-agent.md",
+      "category": "specialized",
+      "output": "agency-agents-codex-plugin/skills/sales-data-extraction-agent/SKILL.md"
+    },
+    {
+      "name": "Civil Engineer",
+      "slug": "specialized-civil-engineer",
+      "source": "agency-agents/specialized/specialized-civil-engineer.md",
+      "category": "specialized",
+      "output": "agency-agents-codex-plugin/skills/specialized-civil-engineer/SKILL.md"
+    },
+    {
+      "name": "Cultural Intelligence Strategist",
+      "slug": "specialized-cultural-intelligence-strategist",
+      "source": "agency-agents/specialized/specialized-cultural-intelligence-strategist.md",
+      "category": "specialized",
+      "output": "agency-agents-codex-plugin/skills/specialized-cultural-intelligence-strategist/SKILL.md"
+    },
+    {
+      "name": "Developer Advocate",
+      "slug": "specialized-developer-advocate",
+      "source": "agency-agents/specialized/specialized-developer-advocate.md",
+      "category": "specialized",
+      "output": "agency-agents-codex-plugin/skills/specialized-developer-advocate/SKILL.md"
+    },
+    {
+      "name": "Document Generator",
+      "slug": "specialized-document-generator",
+      "source": "agency-agents/specialized/specialized-document-generator.md",
+      "category": "specialized",
+      "output": "agency-agents-codex-plugin/skills/specialized-document-generator/SKILL.md"
+    },
+    {
+      "name": "French Consulting Market Navigator",
+      "slug": "specialized-french-consulting-market",
+      "source": "agency-agents/specialized/specialized-french-consulting-market.md",
+      "category": "specialized",
+      "output": "agency-agents-codex-plugin/skills/specialized-french-consulting-market/SKILL.md"
+    },
+    {
+      "name": "Korean Business Navigator",
+      "slug": "specialized-korean-business-navigator",
+      "source": "agency-agents/specialized/specialized-korean-business-navigator.md",
+      "category": "specialized",
+      "output": "agency-agents-codex-plugin/skills/specialized-korean-business-navigator/SKILL.md"
+    },
+    {
+      "name": "MCP Builder",
+      "slug": "specialized-mcp-builder",
+      "source": "agency-agents/specialized/specialized-mcp-builder.md",
+      "category": "specialized",
+      "output": "agency-agents-codex-plugin/skills/specialized-mcp-builder/SKILL.md"
+    },
+    {
+      "name": "Model QA Specialist",
+      "slug": "specialized-model-qa",
+      "source": "agency-agents/specialized/specialized-model-qa.md",
+      "category": "specialized",
+      "output": "agency-agents-codex-plugin/skills/specialized-model-qa/SKILL.md"
+    },
+    {
+      "name": "Salesforce Architect",
+      "slug": "specialized-salesforce-architect",
+      "source": "agency-agents/specialized/specialized-salesforce-architect.md",
+      "category": "specialized",
+      "output": "agency-agents-codex-plugin/skills/specialized-salesforce-architect/SKILL.md"
+    },
+    {
+      "name": "Workflow Architect",
+      "slug": "specialized-workflow-architect",
+      "source": "agency-agents/specialized/specialized-workflow-architect.md",
+      "category": "specialized",
+      "output": "agency-agents-codex-plugin/skills/specialized-workflow-architect/SKILL.md"
+    },
+    {
+      "name": "Study Abroad Advisor",
+      "slug": "study-abroad-advisor",
+      "source": "agency-agents/specialized/study-abroad-advisor.md",
+      "category": "specialized",
+      "output": "agency-agents-codex-plugin/skills/study-abroad-advisor/SKILL.md"
+    },
+    {
+      "name": "Supply Chain Strategist",
+      "slug": "supply-chain-strategist",
+      "source": "agency-agents/specialized/supply-chain-strategist.md",
+      "category": "specialized",
+      "output": "agency-agents-codex-plugin/skills/supply-chain-strategist/SKILL.md"
+    },
+    {
+      "name": "ZK Steward",
+      "slug": "zk-steward",
+      "source": "agency-agents/specialized/zk-steward.md",
+      "category": "specialized",
+      "output": "agency-agents-codex-plugin/skills/zk-steward/SKILL.md"
+    },
+    {
+      "name": "Analytics Reporter",
+      "slug": "support-analytics-reporter",
+      "source": "agency-agents/support/support-analytics-reporter.md",
+      "category": "support",
+      "output": "agency-agents-codex-plugin/skills/support-analytics-reporter/SKILL.md"
+    },
+    {
+      "name": "Executive Summary Generator",
+      "slug": "support-executive-summary-generator",
+      "source": "agency-agents/support/support-executive-summary-generator.md",
+      "category": "support",
+      "output": "agency-agents-codex-plugin/skills/support-executive-summary-generator/SKILL.md"
+    },
+    {
+      "name": "Finance Tracker",
+      "slug": "support-finance-tracker",
+      "source": "agency-agents/support/support-finance-tracker.md",
+      "category": "support",
+      "output": "agency-agents-codex-plugin/skills/support-finance-tracker/SKILL.md"
+    },
+    {
+      "name": "Infrastructure Maintainer",
+      "slug": "support-infrastructure-maintainer",
+      "source": "agency-agents/support/support-infrastructure-maintainer.md",
+      "category": "support",
+      "output": "agency-agents-codex-plugin/skills/support-infrastructure-maintainer/SKILL.md"
+    },
+    {
+      "name": "Legal Compliance Checker",
+      "slug": "support-legal-compliance-checker",
+      "source": "agency-agents/support/support-legal-compliance-checker.md",
+      "category": "support",
+      "output": "agency-agents-codex-plugin/skills/support-legal-compliance-checker/SKILL.md"
+    },
+    {
+      "name": "Support Responder",
+      "slug": "support-support-responder",
+      "source": "agency-agents/support/support-support-responder.md",
+      "category": "support",
+      "output": "agency-agents-codex-plugin/skills/support-support-responder/SKILL.md"
+    },
+    {
+      "name": "Accessibility Auditor",
+      "slug": "testing-accessibility-auditor",
+      "source": "agency-agents/testing/testing-accessibility-auditor.md",
+      "category": "testing",
+      "output": "agency-agents-codex-plugin/skills/testing-accessibility-auditor/SKILL.md"
+    },
+    {
+      "name": "API Tester",
+      "slug": "testing-api-tester",
+      "source": "agency-agents/testing/testing-api-tester.md",
+      "category": "testing",
+      "output": "agency-agents-codex-plugin/skills/testing-api-tester/SKILL.md"
+    },
+    {
+      "name": "Evidence Collector",
+      "slug": "testing-evidence-collector",
+      "source": "agency-agents/testing/testing-evidence-collector.md",
+      "category": "testing",
+      "output": "agency-agents-codex-plugin/skills/testing-evidence-collector/SKILL.md"
+    },
+    {
+      "name": "Performance Benchmarker",
+      "slug": "testing-performance-benchmarker",
+      "source": "agency-agents/testing/testing-performance-benchmarker.md",
+      "category": "testing",
+      "output": "agency-agents-codex-plugin/skills/testing-performance-benchmarker/SKILL.md"
+    },
+    {
+      "name": "Reality Checker",
+      "slug": "testing-reality-checker",
+      "source": "agency-agents/testing/testing-reality-checker.md",
+      "category": "testing",
+      "output": "agency-agents-codex-plugin/skills/testing-reality-checker/SKILL.md"
+    },
+    {
+      "name": "Test Results Analyzer",
+      "slug": "testing-test-results-analyzer",
+      "source": "agency-agents/testing/testing-test-results-analyzer.md",
+      "category": "testing",
+      "output": "agency-agents-codex-plugin/skills/testing-test-results-analyzer/SKILL.md"
+    },
+    {
+      "name": "Tool Evaluator",
+      "slug": "testing-tool-evaluator",
+      "source": "agency-agents/testing/testing-tool-evaluator.md",
+      "category": "testing",
+      "output": "agency-agents-codex-plugin/skills/testing-tool-evaluator/SKILL.md"
+    },
+    {
+      "name": "Workflow Optimizer",
+      "slug": "testing-workflow-optimizer",
+      "source": "agency-agents/testing/testing-workflow-optimizer.md",
+      "category": "testing",
+      "output": "agency-agents-codex-plugin/skills/testing-workflow-optimizer/SKILL.md"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+[
+  {
+    "source": "agency-agents/.github/PULL_REQUEST_TEMPLATE.md",
+    "reason": "Not an agent markdown file with required frontmatter name and description"
+  },
+  {
+    "source": "agency-agents/CONTRIBUTING.md",
+    "reason": "Not an agent markdown file with required frontmatter name and description"
+  },
+  {
+    "source": "agency-agents/CONTRIBUTING_zh-CN.md",
+    "reason": "Not an agent markdown file with required frontmatter name and description"
+  },
+  {
+    "source": "agency-agents/examples/nexus-spatial-discovery.md",
+    "reason": "Not an agent markdown file with required frontmatter name and description"
+  },
+  {
+    "source": "agency-agents/examples/README.md",
+    "reason": "Not an agent markdown file with required frontmatter name and description"
+  },
+  {
+    "source": "agency-agents/examples/workflow-book-chapter.md",
+    "reason": "Not an agent markdown file with required frontmatter name and description"
+  },
+  {
+    "source": "agency-agents/examples/workflow-landing-page.md",
+    "reason": "Not an agent markdown file with required frontmatter name and description"
+  },
+  {
+    "source": "agency-agents/examples/workflow-startup-mvp.md",
+    "reason": "Not an agent markdown file with required frontmatter name and description"
+  },
+  {
+    "source": "agency-agents/examples/workflow-with-memory.md",
+    "reason": "Not an agent markdown file with required frontmatter name and description"
+  },
+  {
+    "source": "agency-agents/integrations/aider/README.md",
+    "reason": "Not an agent markdown file with required frontmatter name and description"
+  },
+  {
+    "source": "agency-agents/integrations/antigravity/README.md",
+    "reason": "Not an agent markdown file with required frontmatter name and description"
+  },
+  {
+    "source": "agency-agents/integrations/claude-code/README.md",
+    "reason": "Not an agent markdown file with required frontmatter name and description"
+  },
+  {
+    "source": "agency-agents/integrations/cursor/README.md",
+    "reason": "Not an agent markdown file with required frontmatter name and description"
+  },
+  {
+    "source": "agency-agents/integrations/gemini-cli/README.md",
+    "reason": "Not an agent markdown file with required frontmatter name and description"
+  },
+  {
+    "source": "agency-agents/integrations/github-copilot/README.md",
+    "reason": "Not an agent markdown file with required frontmatter name and description"
+  },
+  {
+    "source": "agency-agents/integrations/kimi/README.md",
+    "reason": "Not an agent markdown file with required frontmatter name and description"
+  },
+  {
+    "source": "agency-agents/integrations/mcp-memory/README.md",
+    "reason": "Not an agent markdown file with required frontmatter name and description"
+  },
+  {
+    "source": "agency-agents/integrations/openclaw/README.md",
+    "reason": "Not an agent markdown file with required frontmatter name and description"
+  },
+  {
+    "source": "agency-agents/integrations/opencode/README.md",
+    "reason": "Not an agent markdown file with required frontmatter name and description"
+  },
+  {
+    "source": "agency-agents/integrations/README.md",
+    "reason": "Not an agent markdown file with required frontmatter name and description"
+  },
+  {
+    "source": "agency-agents/integrations/windsurf/README.md",
+    "reason": "Not an agent markdown file with required frontmatter name and description"
+  },
+  {
+    "source": "agency-agents/README.md",
+    "reason": "Not an agent markdown file with required frontmatter name and description"
+  },
+  {
+    "source": "agency-agents/strategy/coordination/agent-activation-prompts.md",
+    "reason": "Not an agent markdown file with required frontmatter name and description"
+  },
+  {
+    "source": "agency-agents/strategy/coordination/handoff-templates.md",
+    "reason": "Not an agent markdown file with required frontmatter name and description"
+  },
+  {
+    "source": "agency-agents/strategy/EXECUTIVE-BRIEF.md",
+    "reason": "Not an agent markdown file with required frontmatter name and description"
+  },
+  {
+    "source": "agency-agents/strategy/nexus-strategy.md",
+    "reason": "Not an agent markdown file with required frontmatter name and description"
+  },
+  {
+    "source": "agency-agents/strategy/playbooks/phase-0-discovery.md",
+    "reason": "Not an agent markdown file with required frontmatter name and description"
+  },
+  {
+    "source": "agency-agents/strategy/playbooks/phase-1-strategy.md",
+    "reason": "Not an agent markdown file with required frontmatter name and description"
+  },
+  {
+    "source": "agency-agents/strategy/playbooks/phase-2-foundation.md",
+    "reason": "Not an agent markdown file with required frontmatter name and description"
+  },
+  {
+    "source": "agency-agents/strategy/playbooks/phase-3-build.md",
+    "reason": "Not an agent markdown file with required frontmatter name and description"
+  },
+  {
+    "source": "agency-agents/strategy/playbooks/phase-4-hardening.md",
+    "reason": "Not an agent markdown file with required frontmatter name and description"
+  },
+  {
+    "source": "agency-agents/strategy/playbooks/phase-5-launch.md",
+    "reason": "Not an agent markdown file with required frontmatter name and description"
+  },
+  {
+    "source": "agency-agents/strategy/playbooks/phase-6-operate.md",
+    "reason": "Not an agent markdown file with required frontmatter name and description"
+  },
+  {
+    "source": "agency-agents/strategy/QUICKSTART.md",
+    "reason": "Not an agent markdown file with required frontmatter name and description"
+  },
+  {
+    "source": "agency-agents/strategy/runbooks/scenario-enterprise-feature.md",
+    "reason": "Not an agent markdown file with required frontmatter name and description"
+  },
+  {
+    "source": "agency-agents/strategy/runbooks/scenario-incident-response.md",
+    "reason": "Not an agent markdown file with required frontmatter name and description"
+  },
+  {
+    "source": "agency-agents/strategy/runbooks/scenario-marketing-campaign.md",
+    "reason": "Not an agent markdown file with required frontmatter name and description"
+  },
+  {
+    "source": "agency-agents/strategy/runbooks/scenario-startup-mvp.md",
+    "reason": "Not an agent markdown file with required frontmatter name and description"
+  }
+]

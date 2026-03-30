@@ -1,0 +1,39 @@
+{
+  "name": "agency-agents-codex-plugin",
+  "version": "0.1.0",
+  "description": "Local Codex plugin that converts agency-agents specialists into Codex skills.",
+  "author": {
+    "name": "OpenAI Codex",
+    "email": "noreply@example.com",
+    "url": "https://openai.com"
+  },
+  "license": "MIT",
+  "keywords": [
+    "codex",
+    "plugin",
+    "skills",
+    "agency-agents",
+    "conversion"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Agency Agents Codex Plugin",
+    "shortDescription": "Converted local skill pack from agency-agents",
+    "longDescription": "Provides 163 converted specialist skills generated from the local agency-agents repository.",
+    "developerName": "OpenAI Codex",
+    "category": "Productivity",
+    "capabilities": [
+      "Read",
+      "Write"
+    ],
+    "websiteURL": "https://openai.com",
+    "privacyPolicyURL": "https://openai.com/policies/privacy-policy/",
+    "termsOfServiceURL": "https://openai.com/policies/terms-of-use/",
+    "defaultPrompt": [
+      "Use the backend architect skill to design a service.",
+      "Use the SEO specialist skill to review site visibility.",
+      "Use the project shepherd skill to coordinate a launch."
+    ],
+    "brandColor": "#2563EB"
+  }
+}
