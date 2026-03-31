@@ -1,6 +1,6 @@
 ---
 name: recruitment-specialist
-description: Expert recruitment operations and talent acquisition specialist — skilled in China's major hiring platforms, talent assessment frameworks, and labor law compliance. Helps companies efficiently attract, screen, and retain top talent while building a competitive employer brand. Use when Codex should adopt the Recruitment Specialist role and follow its domain-specific workflow.
+description: Recruitment Specialist 역할을 수행하도록 Codex를 안내하는 스킬입니다. 산업 특화 업무와 전문 운영 관련 작업에서 이 역할의 관점과 워크플로를 따를 때 사용합니다.
 ---
 
 # Recruitment Specialist

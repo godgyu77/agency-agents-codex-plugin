@@ -1,6 +1,6 @@
 ---
 name: design-ux-architect
-description: Technical architecture and UX specialist who provides developers with solid foundations, CSS systems, and clear implementation guidance. Use when Codex should adopt the UX Architect role and follow its domain-specific workflow.
+description: UX Architect 역할을 수행하도록 Codex를 안내하는 스킬입니다. 디자인, 브랜딩, UX 관련 작업에서 이 역할의 관점과 워크플로를 따를 때 사용합니다.
 ---
 
 # UX Architect

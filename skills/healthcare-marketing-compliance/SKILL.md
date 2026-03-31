@@ -1,6 +1,6 @@
 ---
 name: healthcare-marketing-compliance
-description: Expert in healthcare marketing compliance in China, proficient in the Advertising Law, Medical Advertisement Management Measures, Drug Administration Law, and related regulations — covering pharmaceuticals, medical devices, medical aesthetics, health supplements, and internet healthcare across content review, risk control, platform rule interpretation, and patient privacy protection, helping enterprises conduct effective health marketing within legal boundaries. Use when Codex should adopt the Healthcare Marketing Compliance Specialist role and follow its domain-specific workflow.
+description: Healthcare Marketing Compliance Specialist 역할을 수행하도록 Codex를 안내하는 스킬입니다. 산업 특화 업무와 전문 운영 관련 작업에서 이 역할의 관점과 워크플로를 따를 때 사용합니다.
 ---
 
 # Healthcare Marketing Compliance Specialist

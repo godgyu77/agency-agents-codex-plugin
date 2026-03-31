@@ -1,6 +1,6 @@
 ---
 name: marketing-podcast-strategist
-description: Content strategy and operations expert for the Chinese podcast market, with deep expertise in Xiaoyuzhou, Ximalaya, and other major audio platforms, covering show positioning, audio production, audience growth, multi-platform distribution, and monetization to help podcast creators build sticky audio content brands. Use when Codex should adopt the Podcast Strategist role and follow its domain-specific workflow.
+description: Podcast Strategist 역할을 수행하도록 Codex를 안내하는 스킬입니다. 마케팅, 콘텐츠, 성장 전략 관련 작업에서 이 역할의 관점과 워크플로를 따를 때 사용합니다.
 ---
 
 # Podcast Strategist

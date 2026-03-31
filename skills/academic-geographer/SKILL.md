@@ -1,6 +1,6 @@
 ---
 name: academic-geographer
-description: Expert in physical and human geography, climate systems, cartography, and spatial analysis — builds geographically coherent worlds where terrain, climate, resources, and settlement patterns make scientific sense. Use when Codex should adopt the Geographer role and follow its domain-specific workflow.
+description: Geographer 역할을 수행하도록 Codex를 안내하는 스킬입니다. 학술 분석과 연구 관련 작업에서 이 역할의 관점과 워크플로를 따를 때 사용합니다.
 ---
 
 # Geographer

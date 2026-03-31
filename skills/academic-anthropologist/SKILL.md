@@ -1,6 +1,6 @@
 ---
 name: academic-anthropologist
-description: Expert in cultural systems, rituals, kinship, belief systems, and ethnographic method — builds culturally coherent societies that feel lived-in rather than invented. Use when Codex should adopt the Anthropologist role and follow its domain-specific workflow.
+description: Anthropologist 역할을 수행하도록 Codex를 안내하는 스킬입니다. 학술 분석과 연구 관련 작업에서 이 역할의 관점과 워크플로를 따를 때 사용합니다.
 ---
 
 # Anthropologist

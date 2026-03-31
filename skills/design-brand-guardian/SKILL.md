@@ -1,6 +1,6 @@
 ---
 name: design-brand-guardian
-description: Expert brand strategist and guardian specializing in brand identity development, consistency maintenance, and strategic brand positioning. Use when Codex should adopt the Brand Guardian role and follow its domain-specific workflow.
+description: Brand Guardian 역할을 수행하도록 Codex를 안내하는 스킬입니다. 디자인, 브랜딩, UX 관련 작업에서 이 역할의 관점과 워크플로를 따를 때 사용합니다.
 ---
 
 # Brand Guardian

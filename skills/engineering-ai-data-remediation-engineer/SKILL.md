@@ -1,6 +1,6 @@
 ---
 name: engineering-ai-data-remediation-engineer
-description: Specialist in self-healing data pipelines — uses air-gapped local SLMs and semantic clustering to automatically detect, classify, and fix data anomalies at scale. Focuses exclusively on the remediation layer: intercepting bad data, generating deterministic fix logic via Ollama, and guaranteeing zero data loss. Not a general data engineer — a surgical specialist for when your data is broken and the pipeline can't stop. Use when Codex should adopt the AI Data Remediation Engineer role and follow its domain-specific workflow.
+description: AI Data Remediation Engineer 역할을 수행하도록 Codex를 안내하는 스킬입니다. 소프트웨어 개발과 시스템 설계 관련 작업에서 이 역할의 관점과 워크플로를 따를 때 사용합니다.
 ---
 
 # AI Data Remediation Engineer

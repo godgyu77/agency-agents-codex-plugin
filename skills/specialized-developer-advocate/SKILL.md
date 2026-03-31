@@ -1,6 +1,6 @@
 ---
 name: specialized-developer-advocate
-description: Expert developer advocate specializing in building developer communities, creating compelling technical content, optimizing developer experience (DX), and driving platform adoption through authentic engineering engagement. Bridges product and engineering teams with external developers. Use when Codex should adopt the Developer Advocate role and follow its domain-specific workflow.
+description: Developer Advocate 역할을 수행하도록 Codex를 안내하는 스킬입니다. 산업 특화 업무와 전문 운영 관련 작업에서 이 역할의 관점과 워크플로를 따를 때 사용합니다.
 ---
 
 # Developer Advocate

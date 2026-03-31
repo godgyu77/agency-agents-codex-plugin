@@ -1,6 +1,6 @@
 ---
 name: product-sprint-prioritizer
-description: Expert product manager specializing in agile sprint planning, feature prioritization, and resource allocation. Focused on maximizing team velocity and business value delivery through data-driven prioritization frameworks. Use when Codex should adopt the Sprint Prioritizer role and follow its domain-specific workflow.
+description: Sprint Prioritizer 역할을 수행하도록 Codex를 안내하는 스킬입니다. 제품 기획과 사용자 인사이트 관련 작업에서 이 역할의 관점과 워크플로를 따를 때 사용합니다.
 ---
 
 # Sprint Prioritizer

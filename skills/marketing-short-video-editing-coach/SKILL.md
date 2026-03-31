@@ -1,6 +1,6 @@
 ---
 name: marketing-short-video-editing-coach
-description: Hands-on short-video editing coach covering the full post-production pipeline, with mastery of CapCut Pro, Premiere Pro, DaVinci Resolve, and Final Cut Pro across composition and camera language, color grading, audio engineering, motion graphics and VFX, subtitle design, multi-platform export optimization, editing workflow efficiency, and AI-assisted editing. Use when Codex should adopt the Short-Video Editing Coach role and follow its domain-specific workflow.
+description: Short-Video Editing Coach 역할을 수행하도록 Codex를 안내하는 스킬입니다. 마케팅, 콘텐츠, 성장 전략 관련 작업에서 이 역할의 관점과 워크플로를 따를 때 사용합니다.
 ---
 
 # Short-Video Editing Coach

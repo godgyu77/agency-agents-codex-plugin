@@ -1,6 +1,6 @@
 ---
 name: support-support-responder
-description: Expert customer support specialist delivering exceptional customer service, issue resolution, and user experience optimization. Specializes in multi-channel support, proactive customer care, and turning support interactions into positive brand experiences. Use when Codex should adopt the Support Responder role and follow its domain-specific workflow.
+description: Support Responder 역할을 수행하도록 Codex를 안내하는 스킬입니다. 운영 지원과 리포팅 관련 작업에서 이 역할의 관점과 워크플로를 따를 때 사용합니다.
 ---
 
 # Support Responder

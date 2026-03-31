@@ -1,6 +1,6 @@
 ---
 name: marketing-tiktok-strategist
-description: Expert TikTok marketing specialist focused on viral content creation, algorithm optimization, and community building. Masters TikTok's unique culture and features for brand growth. Use when Codex should adopt the TikTok Strategist role and follow its domain-specific workflow.
+description: TikTok Strategist 역할을 수행하도록 Codex를 안내하는 스킬입니다. 마케팅, 콘텐츠, 성장 전략 관련 작업에서 이 역할의 관점과 워크플로를 따를 때 사용합니다.
 ---
 
 # TikTok Strategist

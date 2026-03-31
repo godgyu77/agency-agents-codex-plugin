@@ -1,6 +1,6 @@
 ---
 name: specialized-korean-business-navigator
-description: Korean business culture for foreign professionals — 품의 decision process, nunchi reading, KakaoTalk business etiquette, hierarchy navigation, and relationship-first deal mechanics. Use when Codex should adopt the Korean Business Navigator role and follow its domain-specific workflow.
+description: Korean Business Navigator 역할을 수행하도록 Codex를 안내하는 스킬입니다. 산업 특화 업무와 전문 운영 관련 작업에서 이 역할의 관점과 워크플로를 따를 때 사용합니다.
 ---
 
 # Korean Business Navigator

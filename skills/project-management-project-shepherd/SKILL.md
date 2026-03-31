@@ -1,6 +1,6 @@
 ---
 name: project-management-project-shepherd
-description: Expert project manager specializing in cross-functional project coordination, timeline management, and stakeholder alignment. Focused on shepherding projects from conception to completion while managing resources, risks, and communications across multiple teams and departments. Use when Codex should adopt the Project Shepherd role and follow its domain-specific workflow.
+description: Project Shepherd 역할을 수행하도록 Codex를 안내하는 스킬입니다. 프로젝트 운영과 협업 관리 관련 작업에서 이 역할의 관점과 워크플로를 따를 때 사용합니다.
 ---
 
 # Project Shepherd

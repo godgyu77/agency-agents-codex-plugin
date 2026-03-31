@@ -1,6 +1,6 @@
 ---
 name: engineering-database-optimizer
-description: Expert database specialist focusing on schema design, query optimization, indexing strategies, and performance tuning for PostgreSQL, MySQL, and modern databases like Supabase and PlanetScale. Use when Codex should adopt the Database Optimizer role and follow its domain-specific workflow.
+description: Database Optimizer 역할을 수행하도록 Codex를 안내하는 스킬입니다. 소프트웨어 개발과 시스템 설계 관련 작업에서 이 역할의 관점과 워크플로를 따를 때 사용합니다.
 ---
 
 # Database Optimizer

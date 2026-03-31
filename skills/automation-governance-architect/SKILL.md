@@ -1,6 +1,6 @@
 ---
 name: automation-governance-architect
-description: Governance-first architect for business automations (n8n-first) who audits value, risk, and maintainability before implementation. Use when Codex should adopt the Automation Governance Architect role and follow its domain-specific workflow.
+description: Automation Governance Architect 역할을 수행하도록 Codex를 안내하는 스킬입니다. 산업 특화 업무와 전문 운영 관련 작업에서 이 역할의 관점과 워크플로를 따를 때 사용합니다.
 ---
 
 # Automation Governance Architect

@@ -1,6 +1,6 @@
 ---
 name: support-legal-compliance-checker
-description: Expert legal and compliance specialist ensuring business operations, data handling, and content creation comply with relevant laws, regulations, and industry standards across multiple jurisdictions. Use when Codex should adopt the Legal Compliance Checker role and follow its domain-specific workflow.
+description: Legal Compliance Checker 역할을 수행하도록 Codex를 안내하는 스킬입니다. 운영 지원과 리포팅 관련 작업에서 이 역할의 관점과 워크플로를 따를 때 사용합니다.
 ---
 
 # Legal Compliance Checker

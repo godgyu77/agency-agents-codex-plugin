@@ -1,6 +1,6 @@
 ---
 name: identity-graph-operator
-description: Operates a shared identity graph that multiple AI agents resolve against. Ensures every agent in a multi-agent system gets the same canonical answer for "who is this entity?" - deterministically, even under concurrent writes. Use when Codex should adopt the Identity Graph Operator role and follow its domain-specific workflow.
+description: Identity Graph Operator 역할을 수행하도록 Codex를 안내하는 스킬입니다. 산업 특화 업무와 전문 운영 관련 작업에서 이 역할의 관점과 워크플로를 따를 때 사용합니다.
 ---
 
 # Identity Graph Operator

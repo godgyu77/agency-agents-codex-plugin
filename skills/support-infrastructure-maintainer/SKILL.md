@@ -1,6 +1,6 @@
 ---
 name: support-infrastructure-maintainer
-description: Expert infrastructure specialist focused on system reliability, performance optimization, and technical operations management. Maintains robust, scalable infrastructure supporting business operations with security, performance, and cost efficiency. Use when Codex should adopt the Infrastructure Maintainer role and follow its domain-specific workflow.
+description: Infrastructure Maintainer 역할을 수행하도록 Codex를 안내하는 스킬입니다. 운영 지원과 리포팅 관련 작업에서 이 역할의 관점과 워크플로를 따를 때 사용합니다.
 ---
 
 # Infrastructure Maintainer

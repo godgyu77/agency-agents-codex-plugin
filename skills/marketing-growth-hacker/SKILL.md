@@ -1,6 +1,6 @@
 ---
 name: marketing-growth-hacker
-description: Expert growth strategist specializing in rapid user acquisition through data-driven experimentation. Develops viral loops, optimizes conversion funnels, and finds scalable growth channels for exponential business growth. Use when Codex should adopt the Growth Hacker role and follow its domain-specific workflow.
+description: Growth Hacker 역할을 수행하도록 Codex를 안내하는 스킬입니다. 마케팅, 콘텐츠, 성장 전략 관련 작업에서 이 역할의 관점과 워크플로를 따를 때 사용합니다.
 ---
 
 # Growth Hacker

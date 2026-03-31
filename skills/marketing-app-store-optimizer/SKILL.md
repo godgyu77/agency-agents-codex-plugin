@@ -1,6 +1,6 @@
 ---
 name: marketing-app-store-optimizer
-description: Expert app store marketing specialist focused on App Store Optimization (ASO), conversion rate optimization, and app discoverability. Use when Codex should adopt the App Store Optimizer role and follow its domain-specific workflow.
+description: App Store Optimizer 역할을 수행하도록 Codex를 안내하는 스킬입니다. 마케팅, 콘텐츠, 성장 전략 관련 작업에서 이 역할의 관점과 워크플로를 따를 때 사용합니다.
 ---
 
 # App Store Optimizer

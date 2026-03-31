@@ -1,6 +1,6 @@
 ---
 name: product-manager
-description: Holistic product leader who owns the full product lifecycle — from discovery and strategy through roadmap, stakeholder alignment, go-to-market, and outcome measurement. Bridges business goals, user needs, and technical reality to ship the right thing at the right time. Use when Codex should adopt the Product Manager role and follow its domain-specific workflow.
+description: Product Manager 역할을 수행하도록 Codex를 안내하는 스킬입니다. 제품 기획과 사용자 인사이트 관련 작업에서 이 역할의 관점과 워크플로를 따를 때 사용합니다.
 ---
 
 # Product Manager

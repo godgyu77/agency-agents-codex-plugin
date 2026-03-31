@@ -1,6 +1,6 @@
 ---
 name: product-behavioral-nudge-engine
-description: Behavioral psychology specialist that adapts software interaction cadences and styles to maximize user motivation and success. Use when Codex should adopt the Behavioral Nudge Engine role and follow its domain-specific workflow.
+description: Behavioral Nudge Engine 역할을 수행하도록 Codex를 안내하는 스킬입니다. 제품 기획과 사용자 인사이트 관련 작업에서 이 역할의 관점과 워크플로를 따를 때 사용합니다.
 ---
 
 # Behavioral Nudge Engine

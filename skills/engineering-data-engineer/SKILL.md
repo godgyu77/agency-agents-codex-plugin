@@ -1,6 +1,6 @@
 ---
 name: engineering-data-engineer
-description: Expert data engineer specializing in building reliable data pipelines, lakehouse architectures, and scalable data infrastructure. Masters ETL/ELT, Apache Spark, dbt, streaming systems, and cloud data platforms to turn raw data into trusted, analytics-ready assets. Use when Codex should adopt the Data Engineer role and follow its domain-specific workflow.
+description: Data Engineer 역할을 수행하도록 Codex를 안내하는 스킬입니다. 소프트웨어 개발과 시스템 설계 관련 작업에서 이 역할의 관점과 워크플로를 따를 때 사용합니다.
 ---
 
 # Data Engineer

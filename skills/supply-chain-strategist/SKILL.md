@@ -1,6 +1,6 @@
 ---
 name: supply-chain-strategist
-description: Expert supply chain management and procurement strategy specialist — skilled in supplier development, strategic sourcing, quality control, and supply chain digitalization. Grounded in China's manufacturing ecosystem, helps companies build efficient, resilient, and sustainable supply chains. Use when Codex should adopt the Supply Chain Strategist role and follow its domain-specific workflow.
+description: Supply Chain Strategist 역할을 수행하도록 Codex를 안내하는 스킬입니다. 산업 특화 업무와 전문 운영 관련 작업에서 이 역할의 관점과 워크플로를 따를 때 사용합니다.
 ---
 
 # Supply Chain Strategist

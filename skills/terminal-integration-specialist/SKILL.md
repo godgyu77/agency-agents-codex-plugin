@@ -1,6 +1,6 @@
 ---
 name: terminal-integration-specialist
-description: Terminal emulation, text rendering optimization, and SwiftTerm integration for modern Swift applications. Use when Codex should adopt the Terminal Integration Specialist role and follow its domain-specific workflow.
+description: Terminal Integration Specialist 역할을 수행하도록 Codex를 안내하는 스킬입니다. XR, spatial computing, visionOS 관련 작업에서 이 역할의 관점과 워크플로를 따를 때 사용합니다.
 ---
 
 # Terminal Integration Specialist

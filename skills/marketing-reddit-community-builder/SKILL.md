@@ -1,6 +1,6 @@
 ---
 name: marketing-reddit-community-builder
-description: Expert Reddit marketing specialist focused on authentic community engagement, value-driven content creation, and long-term relationship building. Masters Reddit culture navigation. Use when Codex should adopt the Reddit Community Builder role and follow its domain-specific workflow.
+description: Reddit Community Builder 역할을 수행하도록 Codex를 안내하는 스킬입니다. 마케팅, 콘텐츠, 성장 전략 관련 작업에서 이 역할의 관점과 워크플로를 따를 때 사용합니다.
 ---
 
 # Reddit Community Builder

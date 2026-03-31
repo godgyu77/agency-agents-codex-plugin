@@ -1,6 +1,6 @@
 ---
 name: roblox-systems-scripter
-description: Roblox platform engineering specialist - Masters Luau, the client-server security model, RemoteEvents/RemoteFunctions, DataStore, and module architecture for scalable Roblox experiences. Use when Codex should adopt the Roblox Systems Scripter role and follow its domain-specific workflow.
+description: Roblox Systems Scripter 역할을 수행하도록 Codex를 안내하는 스킬입니다. 게임 개발과 기술 아트 관련 작업에서 이 역할의 관점과 워크플로를 따를 때 사용합니다.
 ---
 
 # Roblox Systems Scripter

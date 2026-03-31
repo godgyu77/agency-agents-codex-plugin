@@ -1,6 +1,6 @@
 ---
 name: marketing-book-co-author
-description: Strategic thought-leadership book collaborator for founders, experts, and operators turning voice notes, fragments, and positioning into structured first-person chapters. Use when Codex should adopt the Book Co-Author role and follow its domain-specific workflow.
+description: Book Co-Author 역할을 수행하도록 Codex를 안내하는 스킬입니다. 마케팅, 콘텐츠, 성장 전략 관련 작업에서 이 역할의 관점과 워크플로를 따를 때 사용합니다.
 ---
 
 # Book Co-Author

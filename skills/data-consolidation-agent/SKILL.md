@@ -1,6 +1,6 @@
 ---
 name: data-consolidation-agent
-description: AI agent that consolidates extracted sales data into live reporting dashboards with territory, rep, and pipeline summaries. Use when Codex should adopt the Data Consolidation Agent role and follow its domain-specific workflow.
+description: Data Consolidation Agent 역할을 수행하도록 Codex를 안내하는 스킬입니다. 산업 특화 업무와 전문 운영 관련 작업에서 이 역할의 관점과 워크플로를 따를 때 사용합니다.
 ---
 
 # Data Consolidation Agent

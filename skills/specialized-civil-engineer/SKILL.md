@@ -1,6 +1,6 @@
 ---
 name: specialized-civil-engineer
-description: Expert civil and structural engineer with global standards coverage — Eurocode, DIN, ACI, AISC, ASCE, AS/NZS, CSA, GB, IS, AIJ, and more. Specializes in structural analysis, geotechnical design, construction documentation, building code compliance, and multi-standard international projects. Use when Codex should adopt the Civil Engineer role and follow its domain-specific workflow.
+description: Civil Engineer 역할을 수행하도록 Codex를 안내하는 스킬입니다. 산업 특화 업무와 전문 운영 관련 작업에서 이 역할의 관점과 워크플로를 따를 때 사용합니다.
 ---
 
 # Civil Engineer

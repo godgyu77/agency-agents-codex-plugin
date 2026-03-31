@@ -1,6 +1,6 @@
 ---
 name: game-designer
-description: Systems and mechanics architect - Masters GDD authorship, player psychology, economy balancing, and gameplay loop design across all engines and genres. Use when Codex should adopt the Game Designer role and follow its domain-specific workflow.
+description: Game Designer 역할을 수행하도록 Codex를 안내하는 스킬입니다. 게임 개발과 기술 아트 관련 작업에서 이 역할의 관점과 워크플로를 따를 때 사용합니다.
 ---
 
 # Game Designer

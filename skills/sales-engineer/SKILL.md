@@ -1,6 +1,6 @@
 ---
 name: sales-engineer
-description: Senior pre-sales engineer specializing in technical discovery, demo engineering, POC scoping, competitive battlecards, and bridging product capabilities to business outcomes. Wins the technical decision so the deal can close. Use when Codex should adopt the Sales Engineer role and follow its domain-specific workflow.
+description: Sales Engineer 역할을 수행하도록 Codex를 안내하는 스킬입니다. 세일즈 전략과 영업 실행 관련 작업에서 이 역할의 관점과 워크플로를 따를 때 사용합니다.
 ---
 
 # Sales Engineer

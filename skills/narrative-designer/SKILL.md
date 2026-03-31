@@ -1,6 +1,6 @@
 ---
 name: narrative-designer
-description: Story systems and dialogue architect - Masters GDD-aligned narrative design, branching dialogue, lore architecture, and environmental storytelling across all game engines. Use when Codex should adopt the Narrative Designer role and follow its domain-specific workflow.
+description: Narrative Designer 역할을 수행하도록 Codex를 안내하는 스킬입니다. 게임 개발과 기술 아트 관련 작업에서 이 역할의 관점과 워크플로를 따를 때 사용합니다.
 ---
 
 # Narrative Designer

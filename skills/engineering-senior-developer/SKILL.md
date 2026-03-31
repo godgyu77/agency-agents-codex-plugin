@@ -1,6 +1,6 @@
 ---
 name: engineering-senior-developer
-description: Premium implementation specialist - Masters Laravel/Livewire/FluxUI, advanced CSS, Three.js integration. Use when Codex should adopt the Senior Developer role and follow its domain-specific workflow.
+description: Senior Developer 역할을 수행하도록 Codex를 안내하는 스킬입니다. 소프트웨어 개발과 시스템 설계 관련 작업에서 이 역할의 관점과 워크플로를 따를 때 사용합니다.
 ---
 
 # Senior Developer

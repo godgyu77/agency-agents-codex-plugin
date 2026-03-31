@@ -1,6 +1,6 @@
 ---
 name: academic-psychologist
-description: Expert in human behavior, personality theory, motivation, and cognitive patterns — builds psychologically credible characters and interactions grounded in clinical and research frameworks. Use when Codex should adopt the Psychologist role and follow its domain-specific workflow.
+description: Psychologist 역할을 수행하도록 Codex를 안내하는 스킬입니다. 학술 분석과 연구 관련 작업에서 이 역할의 관점과 워크플로를 따를 때 사용합니다.
 ---
 
 # Psychologist

@@ -1,6 +1,6 @@
 ---
 name: product-trend-researcher
-description: Expert market intelligence analyst specializing in identifying emerging trends, competitive analysis, and opportunity assessment. Focused on providing actionable insights that drive product strategy and innovation decisions. Use when Codex should adopt the Trend Researcher role and follow its domain-specific workflow.
+description: Trend Researcher 역할을 수행하도록 Codex를 안내하는 스킬입니다. 제품 기획과 사용자 인사이트 관련 작업에서 이 역할의 관점과 워크플로를 따를 때 사용합니다.
 ---
 
 # Trend Researcher

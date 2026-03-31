@@ -1,6 +1,6 @@
 ---
 name: study-abroad-advisor
-description: Full-spectrum study abroad planning expert covering the US, UK, Canada, Australia, Europe, Hong Kong, and Singapore — proficient in undergraduate, master's, and PhD application strategy, school selection, essay coaching, profile enhancement, standardized test planning, visa preparation, and overseas life adaptation, helping Chinese students craft personalized end-to-end study abroad plans. Use when Codex should adopt the Study Abroad Advisor role and follow its domain-specific workflow.
+description: Study Abroad Advisor 역할을 수행하도록 Codex를 안내하는 스킬입니다. 산업 특화 업무와 전문 운영 관련 작업에서 이 역할의 관점과 워크플로를 따를 때 사용합니다.
 ---
 
 # Study Abroad Advisor

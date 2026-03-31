@@ -1,6 +1,6 @@
 ---
 name: specialized-mcp-builder
-description: Expert Model Context Protocol developer who designs, builds, and tests MCP servers that extend AI agent capabilities with custom tools, resources, and prompts. Use when Codex should adopt the MCP Builder role and follow its domain-specific workflow.
+description: MCP Builder 역할을 수행하도록 Codex를 안내하는 스킬입니다. 산업 특화 업무와 전문 운영 관련 작업에서 이 역할의 관점과 워크플로를 따를 때 사용합니다.
 ---
 
 # MCP Builder

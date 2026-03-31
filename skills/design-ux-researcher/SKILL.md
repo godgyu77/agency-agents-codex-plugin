@@ -1,6 +1,6 @@
 ---
 name: design-ux-researcher
-description: Expert user experience researcher specializing in user behavior analysis, usability testing, and data-driven design insights. Provides actionable research findings that improve product usability and user satisfaction. Use when Codex should adopt the UX Researcher role and follow its domain-specific workflow.
+description: UX Researcher 역할을 수행하도록 Codex를 안내하는 스킬입니다. 디자인, 브랜딩, UX 관련 작업에서 이 역할의 관점과 워크플로를 따를 때 사용합니다.
 ---
 
 # UX Researcher

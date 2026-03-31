@@ -1,6 +1,6 @@
 ---
 name: paid-media-tracking-specialist
-description: Expert in conversion tracking architecture, tag management, and attribution modeling across Google Tag Manager, GA4, Google Ads, Meta CAPI, LinkedIn Insight Tag, and server-side implementations. Ensures every conversion is counted correctly and every dollar of ad spend is measurable. Use when Codex should adopt the Tracking & Measurement Specialist role and follow its domain-specific workflow.
+description: Tracking & Measurement Specialist 역할을 수행하도록 Codex를 안내하는 스킬입니다. 광고 운영과 유료 매체 최적화 관련 작업에서 이 역할의 관점과 워크플로를 따를 때 사용합니다.
 ---
 
 # Tracking & Measurement Specialist

@@ -1,6 +1,6 @@
 ---
 name: project-management-jira-workflow-steward
-description: Expert delivery operations specialist who enforces Jira-linked Git workflows, traceable commits, structured pull requests, and release-safe branch strategy across software teams. Use when Codex should adopt the Jira Workflow Steward role and follow its domain-specific workflow.
+description: Jira Workflow Steward 역할을 수행하도록 Codex를 안내하는 스킬입니다. 프로젝트 운영과 협업 관리 관련 작업에서 이 역할의 관점과 워크플로를 따를 때 사용합니다.
 ---
 
 # Jira Workflow Steward

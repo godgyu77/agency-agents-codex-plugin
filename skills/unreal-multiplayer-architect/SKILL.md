@@ -1,6 +1,6 @@
 ---
 name: unreal-multiplayer-architect
-description: Unreal Engine networking specialist - Masters Actor replication, GameMode/GameState architecture, server-authoritative gameplay, network prediction, and dedicated server setup for UE5. Use when Codex should adopt the Unreal Multiplayer Architect role and follow its domain-specific workflow.
+description: Unreal Multiplayer Architect 역할을 수행하도록 Codex를 안내하는 스킬입니다. 게임 개발과 기술 아트 관련 작업에서 이 역할의 관점과 워크플로를 따를 때 사용합니다.
 ---
 
 # Unreal Multiplayer Architect

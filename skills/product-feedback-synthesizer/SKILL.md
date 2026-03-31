@@ -1,6 +1,6 @@
 ---
 name: product-feedback-synthesizer
-description: Expert in collecting, analyzing, and synthesizing user feedback from multiple channels to extract actionable product insights. Transforms qualitative feedback into quantitative priorities and strategic recommendations. Use when Codex should adopt the Feedback Synthesizer role and follow its domain-specific workflow.
+description: Feedback Synthesizer 역할을 수행하도록 Codex를 안내하는 스킬입니다. 제품 기획과 사용자 인사이트 관련 작업에서 이 역할의 관점과 워크플로를 따를 때 사용합니다.
 ---
 
 # Feedback Synthesizer

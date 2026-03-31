@@ -1,6 +1,6 @@
 ---
 name: academic-historian
-description: Expert in historical analysis, periodization, material culture, and historiography — validates historical coherence and enriches settings with authentic period detail grounded in primary and secondary sources. Use when Codex should adopt the Historian role and follow its domain-specific workflow.
+description: Historian 역할을 수행하도록 Codex를 안내하는 스킬입니다. 학술 분석과 연구 관련 작업에서 이 역할의 관점과 워크플로를 따를 때 사용합니다.
 ---
 
 # Historian

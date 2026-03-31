@@ -1,6 +1,6 @@
 ---
 name: specialized-workflow-architect
-description: Workflow design specialist who maps complete workflow trees for every system, user journey, and agent interaction — covering happy paths, all branch conditions, failure modes, recovery paths, handoff contracts, and observable states to produce build-ready specs that agents can implement against and QA can test against. Use when Codex should adopt the Workflow Architect role and follow its domain-specific workflow.
+description: Workflow Architect 역할을 수행하도록 Codex를 안내하는 스킬입니다. 산업 특화 업무와 전문 운영 관련 작업에서 이 역할의 관점과 워크플로를 따를 때 사용합니다.
 ---
 
 # Workflow Architect

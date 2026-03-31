@@ -1,6 +1,6 @@
 ---
 name: testing-tool-evaluator
-description: Expert technology assessment specialist focused on evaluating, testing, and recommending tools, software, and platforms for business use and productivity optimization. Use when Codex should adopt the Tool Evaluator role and follow its domain-specific workflow.
+description: Tool Evaluator 역할을 수행하도록 Codex를 안내하는 스킬입니다. 테스트, 검증, 품질 점검 관련 작업에서 이 역할의 관점과 워크플로를 따를 때 사용합니다.
 ---
 
 # Tool Evaluator

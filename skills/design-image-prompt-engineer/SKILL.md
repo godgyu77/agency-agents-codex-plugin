@@ -1,6 +1,6 @@
 ---
 name: design-image-prompt-engineer
-description: Expert photography prompt engineer specializing in crafting detailed, evocative prompts for AI image generation. Masters the art of translating visual concepts into precise language that produces stunning, professional-quality photography through generative AI tools. Use when Codex should adopt the Image Prompt Engineer role and follow its domain-specific workflow.
+description: Image Prompt Engineer 역할을 수행하도록 Codex를 안내하는 스킬입니다. 디자인, 브랜딩, UX 관련 작업에서 이 역할의 관점과 워크플로를 따를 때 사용합니다.
 ---
 
 # Image Prompt Engineer

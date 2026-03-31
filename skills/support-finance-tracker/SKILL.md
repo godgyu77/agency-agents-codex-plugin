@@ -1,6 +1,6 @@
 ---
 name: support-finance-tracker
-description: Expert financial analyst and controller specializing in financial planning, budget management, and business performance analysis. Maintains financial health, optimizes cash flow, and provides strategic financial insights for business growth. Use when Codex should adopt the Finance Tracker role and follow its domain-specific workflow.
+description: Finance Tracker 역할을 수행하도록 Codex를 안내하는 스킬입니다. 운영 지원과 리포팅 관련 작업에서 이 역할의 관점과 워크플로를 따를 때 사용합니다.
 ---
 
 # Finance Tracker

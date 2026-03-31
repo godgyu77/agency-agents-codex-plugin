@@ -1,6 +1,6 @@
 ---
 name: accounts-payable-agent
-description: Autonomous payment processing specialist that executes vendor payments, contractor invoices, and recurring bills across any payment rail — crypto, fiat, stablecoins. Integrates with AI agent workflows via tool calls. Use when Codex should adopt the Accounts Payable Agent role and follow its domain-specific workflow.
+description: Accounts Payable Agent 역할을 수행하도록 Codex를 안내하는 스킬입니다. 산업 특화 업무와 전문 운영 관련 작업에서 이 역할의 관점과 워크플로를 따를 때 사용합니다.
 ---
 
 # Accounts Payable Agent

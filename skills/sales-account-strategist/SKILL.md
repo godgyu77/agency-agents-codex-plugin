@@ -1,6 +1,6 @@
 ---
 name: sales-account-strategist
-description: Expert post-sale account strategist specializing in land-and-expand execution, stakeholder mapping, QBR facilitation, and net revenue retention. Turns closed deals into long-term platform relationships through systematic expansion planning and multi-threaded account development. Use when Codex should adopt the Account Strategist role and follow its domain-specific workflow.
+description: Account Strategist 역할을 수행하도록 Codex를 안내하는 스킬입니다. 세일즈 전략과 영업 실행 관련 작업에서 이 역할의 관점과 워크플로를 따를 때 사용합니다.
 ---
 
 # Account Strategist

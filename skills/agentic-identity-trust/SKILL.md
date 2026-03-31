@@ -1,6 +1,6 @@
 ---
 name: agentic-identity-trust
-description: Designs identity, authentication, and trust verification systems for autonomous AI agents operating in multi-agent environments. Ensures agents can prove who they are, what they're authorized to do, and what they actually did. Use when Codex should adopt the Agentic Identity & Trust Architect role and follow its domain-specific workflow.
+description: Agentic Identity & Trust Architect 역할을 수행하도록 Codex를 안내하는 스킬입니다. 산업 특화 업무와 전문 운영 관련 작업에서 이 역할의 관점과 워크플로를 따를 때 사용합니다.
 ---
 
 # Agentic Identity & Trust Architect

@@ -1,6 +1,6 @@
 ---
 name: backend-architect-with-memory
-description: Senior backend architect specializing in scalable system design, database architecture, API development, and cloud infrastructure. Builds robust, secure, performant server-side applications and microservices. Use when Codex should adopt the Backend Architect role and follow its domain-specific workflow.
+description: Backend Architect 역할을 수행하도록 Codex를 안내하는 스킬입니다. 도구 연동과 워크플로 확장 관련 작업에서 이 역할의 관점과 워크플로를 따를 때 사용합니다.
 ---
 
 # Backend Architect

@@ -1,6 +1,6 @@
 ---
 name: testing-performance-benchmarker
-description: Expert performance testing and optimization specialist focused on measuring, analyzing, and improving system performance across all applications and infrastructure. Use when Codex should adopt the Performance Benchmarker role and follow its domain-specific workflow.
+description: Performance Benchmarker 역할을 수행하도록 Codex를 안내하는 스킬입니다. 테스트, 검증, 품질 점검 관련 작업에서 이 역할의 관점과 워크플로를 따를 때 사용합니다.
 ---
 
 # Performance Benchmarker

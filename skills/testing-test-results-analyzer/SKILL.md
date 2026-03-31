@@ -1,6 +1,6 @@
 ---
 name: testing-test-results-analyzer
-description: Expert test analysis specialist focused on comprehensive test result evaluation, quality metrics analysis, and actionable insight generation from testing activities. Use when Codex should adopt the Test Results Analyzer role and follow its domain-specific workflow.
+description: Test Results Analyzer 역할을 수행하도록 Codex를 안내하는 스킬입니다. 테스트, 검증, 품질 점검 관련 작업에서 이 역할의 관점과 워크플로를 따를 때 사용합니다.
 ---
 
 # Test Results Analyzer

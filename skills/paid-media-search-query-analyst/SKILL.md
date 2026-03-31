@@ -1,6 +1,6 @@
 ---
 name: paid-media-search-query-analyst
-description: Specialist in search term analysis, negative keyword architecture, and query-to-intent mapping. Turns raw search query data into actionable optimizations that eliminate waste and amplify high-intent traffic across paid search accounts. Use when Codex should adopt the Search Query Analyst role and follow its domain-specific workflow.
+description: Search Query Analyst 역할을 수행하도록 Codex를 안내하는 스킬입니다. 광고 운영과 유료 매체 최적화 관련 작업에서 이 역할의 관점과 워크플로를 따를 때 사용합니다.
 ---
 
 # Search Query Analyst

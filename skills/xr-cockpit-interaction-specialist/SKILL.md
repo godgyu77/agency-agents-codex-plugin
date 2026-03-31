@@ -1,6 +1,6 @@
 ---
 name: xr-cockpit-interaction-specialist
-description: Specialist in designing and developing immersive cockpit-based control systems for XR environments. Use when Codex should adopt the XR Cockpit Interaction Specialist role and follow its domain-specific workflow.
+description: XR Cockpit Interaction Specialist 역할을 수행하도록 Codex를 안내하는 스킬입니다. XR, spatial computing, visionOS 관련 작업에서 이 역할의 관점과 워크플로를 따를 때 사용합니다.
 ---
 
 # XR Cockpit Interaction Specialist

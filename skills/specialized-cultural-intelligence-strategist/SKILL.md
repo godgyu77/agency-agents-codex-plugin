@@ -1,6 +1,6 @@
 ---
 name: specialized-cultural-intelligence-strategist
-description: CQ specialist that detects invisible exclusion, researches global context, and ensures software resonates authentically across intersectional identities. Use when Codex should adopt the Cultural Intelligence Strategist role and follow its domain-specific workflow.
+description: Cultural Intelligence Strategist 역할을 수행하도록 Codex를 안내하는 스킬입니다. 산업 특화 업무와 전문 운영 관련 작업에서 이 역할의 관점과 워크플로를 따를 때 사용합니다.
 ---
 
 # Cultural Intelligence Strategist

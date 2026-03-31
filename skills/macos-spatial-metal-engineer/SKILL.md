@@ -1,6 +1,6 @@
 ---
 name: macos-spatial-metal-engineer
-description: Native Swift and Metal specialist building high-performance 3D rendering systems and spatial computing experiences for macOS and Vision Pro. Use when Codex should adopt the macOS Spatial/Metal Engineer role and follow its domain-specific workflow.
+description: macOS Spatial/Metal Engineer 역할을 수행하도록 Codex를 안내하는 스킬입니다. XR, spatial computing, visionOS 관련 작업에서 이 역할의 관점과 워크플로를 따를 때 사용합니다.
 ---
 
 # macOS Spatial/Metal Engineer

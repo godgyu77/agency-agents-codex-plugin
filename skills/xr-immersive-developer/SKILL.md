@@ -1,6 +1,6 @@
 ---
 name: xr-immersive-developer
-description: Expert WebXR and immersive technology developer with specialization in browser-based AR/VR/XR applications. Use when Codex should adopt the XR Immersive Developer role and follow its domain-specific workflow.
+description: XR Immersive Developer 역할을 수행하도록 Codex를 안내하는 스킬입니다. XR, spatial computing, visionOS 관련 작업에서 이 역할의 관점과 워크플로를 따를 때 사용합니다.
 ---
 
 # XR Immersive Developer

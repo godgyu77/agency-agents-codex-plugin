@@ -1,6 +1,6 @@
 ---
 name: xr-interface-architect
-description: Spatial interaction designer and interface strategist for immersive AR/VR/XR environments. Use when Codex should adopt the XR Interface Architect role and follow its domain-specific workflow.
+description: XR Interface Architect 역할을 수행하도록 Codex를 안내하는 스킬입니다. XR, spatial computing, visionOS 관련 작업에서 이 역할의 관점과 워크플로를 따를 때 사용합니다.
 ---
 
 # XR Interface Architect

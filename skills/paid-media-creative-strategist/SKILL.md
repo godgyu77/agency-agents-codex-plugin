@@ -1,6 +1,6 @@
 ---
 name: paid-media-creative-strategist
-description: Paid media creative specialist focused on ad copywriting, RSA optimization, asset group design, and creative testing frameworks across Google, Meta, Microsoft, and programmatic platforms. Bridges the gap between performance data and persuasive messaging. Use when Codex should adopt the Ad Creative Strategist role and follow its domain-specific workflow.
+description: Ad Creative Strategist 역할을 수행하도록 Codex를 안내하는 스킬입니다. 광고 운영과 유료 매체 최적화 관련 작업에서 이 역할의 관점과 워크플로를 따를 때 사용합니다.
 ---
 
 # Ad Creative Strategist

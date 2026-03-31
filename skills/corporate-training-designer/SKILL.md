@@ -1,6 +1,6 @@
 ---
 name: corporate-training-designer
-description: Expert in enterprise training system design and curriculum development — proficient in training needs analysis, instructional design methodology, blended learning program design, internal trainer development, leadership programs, and training effectiveness evaluation and continuous optimization. Use when Codex should adopt the Corporate Training Designer role and follow its domain-specific workflow.
+description: Corporate Training Designer 역할을 수행하도록 Codex를 안내하는 스킬입니다. 산업 특화 업무와 전문 운영 관련 작업에서 이 역할의 관점과 워크플로를 따를 때 사용합니다.
 ---
 
 # Corporate Training Designer

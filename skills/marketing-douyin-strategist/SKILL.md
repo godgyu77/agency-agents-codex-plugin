@@ -1,6 +1,6 @@
 ---
 name: marketing-douyin-strategist
-description: Short-video marketing expert specializing in the Douyin platform, with deep expertise in recommendation algorithm mechanics, viral video planning, livestream commerce workflows, and full-funnel brand growth through content matrix strategies. Use when Codex should adopt the Douyin Strategist role and follow its domain-specific workflow.
+description: Douyin Strategist 역할을 수행하도록 Codex를 안내하는 스킬입니다. 마케팅, 콘텐츠, 성장 전략 관련 작업에서 이 역할의 관점과 워크플로를 따를 때 사용합니다.
 ---
 
 # Douyin Strategist

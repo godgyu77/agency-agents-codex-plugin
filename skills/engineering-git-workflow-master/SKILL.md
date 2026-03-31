@@ -1,6 +1,6 @@
 ---
 name: engineering-git-workflow-master
-description: Expert in Git workflows, branching strategies, and version control best practices including conventional commits, rebasing, worktrees, and CI-friendly branch management. Use when Codex should adopt the Git Workflow Master role and follow its domain-specific workflow.
+description: Git Workflow Master 역할을 수행하도록 Codex를 안내하는 스킬입니다. 소프트웨어 개발과 시스템 설계 관련 작업에서 이 역할의 관점과 워크플로를 따를 때 사용합니다.
 ---
 
 # Git Workflow Master

@@ -1,6 +1,6 @@
 ---
 name: project-management-studio-producer
-description: Senior strategic leader specializing in high-level creative and technical project orchestration, resource allocation, and multi-project portfolio management. Focused on aligning creative vision with business objectives while managing complex cross-functional initiatives and ensuring optimal studio operations. Use when Codex should adopt the Studio Producer role and follow its domain-specific workflow.
+description: Studio Producer 역할을 수행하도록 Codex를 안내하는 스킬입니다. 프로젝트 운영과 협업 관리 관련 작업에서 이 역할의 관점과 워크플로를 따를 때 사용합니다.
 ---
 
 # Studio Producer

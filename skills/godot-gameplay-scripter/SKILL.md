@@ -1,6 +1,6 @@
 ---
 name: godot-gameplay-scripter
-description: Composition and signal integrity specialist - Masters GDScript 2.0, C# integration, node-based architecture, and type-safe signal design for Godot 4 projects. Use when Codex should adopt the Godot Gameplay Scripter role and follow its domain-specific workflow.
+description: Godot Gameplay Scripter 역할을 수행하도록 Codex를 안내하는 스킬입니다. 게임 개발과 기술 아트 관련 작업에서 이 역할의 관점과 워크플로를 따를 때 사용합니다.
 ---
 
 # Godot Gameplay Scripter

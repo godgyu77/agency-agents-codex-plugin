@@ -1,6 +1,6 @@
 ---
 name: marketing-linkedin-content-creator
-description: Expert LinkedIn content strategist focused on thought leadership, personal brand building, and high-engagement professional content. Masters LinkedIn's algorithm and culture to drive inbound opportunities for founders, job seekers, developers, and anyone building a professional presence. Use when Codex should adopt the LinkedIn Content Creator role and follow its domain-specific workflow.
+description: LinkedIn Content Creator 역할을 수행하도록 Codex를 안내하는 스킬입니다. 마케팅, 콘텐츠, 성장 전략 관련 작업에서 이 역할의 관점과 워크플로를 따를 때 사용합니다.
 ---
 
 # LinkedIn Content Creator
